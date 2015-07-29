@@ -1,6 +1,6 @@
 # Awesome Salesforce
 
-A collection of awesome Salesforce.com Platform Related[Salesforce](https://www.salesforce.com) libraries, resources and shiny things.
+A collection of awesome [Salesforce Platform Releated](https://www.salesforce.com) libraries, resources and shiny things.
 
 * [Awesome Official Resources](#awesome-salesforce-official)
   * [Package Managers](#package-managers)
