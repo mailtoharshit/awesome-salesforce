@@ -19,9 +19,9 @@ Read [the awesome manifesto](https://github.com/sindresorhus/awesome/blob/master
 
 ##Awesomeness 
 
-- [Salesforce Official Resources](###Salesforce-official)
-- [Technical Blog](###Technical-Blog)
-- [Mad science](#mad-science)
+- [Salesforce Official Resources](#Salesforce-official)
+- [Technical Blog](#Technical-Blog)
+
 
 
 ### Salesforce-official
