@@ -19,10 +19,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Technical Blogs 
 
-* [Christophe Coenraets](http://coenraets.org/blog/) - Christophe Coenraets is a Developer Evangelist for Salesforce.com where he focuses on mobile application development, [http://coenraets.org/blog/bio/](read more)
-* [Jeff Doughlas](http://coenraets.org/blog/) - Senior Technical Consultant at Appirio & Developer Evangelist Architect at topcoder specializing in cloud-based, APIs & mobile apps. [http://blog.jeffdouglas.com/about/](read more)
-* [Keir Bowden](http://bobbuzzard.blogspot.com/)- Also known as Keir Bowden and I'm Chief Technical Officer at BrightGen, a Salesforce Platinum Partner, in the United Kingdom.[https://www.blogger.com/profile/07815472992351343395](read more)
-* [Enrico Murru -(Nerd @ Work)](http://blog.enree.co/) - Also known as Enreeco or ForceLogic.Ultra geek tech lover mercenary software developer and Salesforce enthusiast. [http://enree.co/](read more)
-* [Harshit Pandey -(Oyecode)](http://www.oyecode.com/) - Harshit Pandey is Principal Technical Architect Evangelist at Intuitive Surgical, previously Architect at Salesforce, tech lover and geek focusing on innovating by intergrating technologies with Salesforce [https://about.me/harshit.pandey](read more)
-* [Peter Knolle](http://peterknolle.com/) - Peter Knolle enjoys working with all kinds of different technologies. Certified Salesforce.com professional, and Force.com MVP. [http://peterknolle.com/about/](read more)  
-* [Abhinav Gupta](http://www.tgerm.com/)- Force.com MVP & Architect - Passionate about S1 & Javascript, Architect by Profession and now owner of his company focusing on salesforce Consulting  [https://plus.google.com/+AbhinavGuptaIn/posts](read more) 
+* [Christophe Coenraets](http://coenraets.org/blog/) - Christophe Coenraets is a Developer Evangelist for Salesforce.com where he focuses on mobile application development, [Read More] (http://coenraets.org/blog/bio/)
+* [Jeff Doughlas](http://coenraets.org/blog/) - Senior Technical Consultant at Appirio & Developer Evangelist Architect at topcoder specializing in cloud-based, APIs & mobile apps. [Read More] (http://blog.jeffdouglas.com/about/)
+* [Keir Bowden](http://bobbuzzard.blogspot.com/)- Also known as Keir Bowden and I'm Chief Technical Officer at BrightGen, a Salesforce Platinum Partner, in the United Kingdom.[Read More] (https://www.blogger.com/profile/07815472992351343395)
+* [Enrico Murru -(Nerd @ Work)](http://blog.enree.co/) - Also known as Enreeco or ForceLogic.Ultra geek tech lover mercenary software developer and Salesforce enthusiast. [Read More] (http://enree.co/)
+* [Harshit Pandey -(Oyecode)](http://www.oyecode.com/) - Harshit Pandey is Principal Technical Architect Evangelist at Intuitive Surgical, previously Architect at Salesforce, tech lover and geek focusing on innovating by intergrating technologies with Salesforce [Read More] (https://about.me/harshit.pandey)
+* [Peter Knolle](http://peterknolle.com/) - Peter Knolle enjoys working with all kinds of different technologies. Certified Salesforce.com professional, and Force.com MVP. [Read More] (http://peterknolle.com/about/)  
+* [Abhinav Gupta](http://www.tgerm.com/)- Force.com MVP & Architect - Passionate about S1 & Javascript, Architect by Profession and now owner of his company focusing on salesforce Consulting [Read More] (https://plus.google.com/+AbhinavGuptaIn/posts) 
