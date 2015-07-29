@@ -21,7 +21,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 
 
-##Awesomeness 
+##Table of Contents
 
 - [Salesforce Official Resources](#salesforce-official)
 - [Technical Blog](#technical-blogs)
