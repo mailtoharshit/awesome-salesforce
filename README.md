@@ -1,15 +1,26 @@
+
+[![](http://i.imgur.com/bVyBop4.png?1)]
+
 # Awesome Salesforce
 
-> A collection of awesome [Salesforce Platform](https://www.salesforce.com) related libraries, blogs and shiny things.
+> A collection of awesome [Salesforce Platform](https://www.salesforce.com) shiny things.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## What is Awesome Salesforce ? 
+   Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/sindresorhus/) who is most popular person on Github on [planet earth](http://githubranking.com/sindresorhus). He created an awesome project which list down awesome page (dedicated to a technology). 
+
+## What are we supposed to do ?
+   Bring in your resource, links that you want to share with world here and make this page awesomer, once it qualifies, we can add this page to [official list](https://github.com/sindresorhus/awesome)
+
+## What makes for an awesome list?
+Read [the awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) and ensure your list complies.
+
 * [Salesforce Official Resources](#Salesforce-official)
+* [Technical Blog](#Technical-Blog)
 
-## Salesforce Official
 
-*List official shiny things from Salesforce.com
-
+### Salesforce-official
 * [Trailhead](https://developer.salesforce.com/trailhead) - Trailhead teaches you how to build cloud apps for free with fun, interactive tutorials. Stand out by learning in-demand Salesforce development skills..
 * [Salesforce Git Repo](https://github.com/forcedotcom) - Grab all latest salesforce open source projects here.
 * [Salesforce Developer Releations Blog](https://developer.salesforce.com/blogs/) - Managed by Salesforce Developer Relations Team, you will find coolest of updates in the world of Salesforce, mostly experienments, features and developer evagelist blog official from this podium.
@@ -17,8 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/) - Covers latest update from engineering team, you will find updates about core engineering and product releated post and some awesome people to follow
 
 
-## Technical Blogs 
-
+### Technical Blogs 
 * [Christophe Coenraets](http://coenraets.org/blog/) - Christophe Coenraets is a Developer Evangelist for Salesforce.com where he focuses on mobile application development, [Read More] (http://coenraets.org/blog/bio/)
 * [Jeff Doughlas](http://coenraets.org/blog/) - Senior Technical Consultant at Appirio & Developer Evangelist Architect at topcoder specializing in cloud-based, APIs & mobile apps. [Read More] (http://blog.jeffdouglas.com/about/)
 * [Keir Bowden](http://bobbuzzard.blogspot.com/)- Also known as Keir Bowden and I'm Chief Technical Officer at BrightGen, a Salesforce Platinum Partner, in the United Kingdom.[Read More] (https://www.blogger.com/profile/07815472992351343395)
