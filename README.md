@@ -14,7 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
    Bring in your resource, links that you want to share with world here and make this page awesomer, once it qualifies, we can add this page to [official list](https://github.com/sindresorhus/awesome)
 
 ## What makes for an awesome list?
-Read [the awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) and ensure your list complies.
+Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
 
 
 
@@ -23,9 +23,8 @@ Read [the awesome manifesto](https://github.com/sindresorhus/awesome/blob/master
 
 ##Awesomeness 
 
-- [Salesforce Official Resources](#Salesforce-official)
-- [Technical Blog](#Technical-Blog)
-
+- [Salesforce Official Resources](#salesforce-official)
+- [Technical Blog](#technical-blogs)
 
 
 ### Salesforce-official
