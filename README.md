@@ -1,58 +1,9 @@
 # Awesome Salesforce
 
-A collection of awesome [Salesforce Platform Releated](https://www.salesforce.com) libraries, resources and shiny things.
+A collection of awesome [Salesforce Platform](https://www.salesforce.com) related libraries, resources and shiny things.
 
-* [Awesome Official Resources](#awesome-salesforce-official)
-  * [Package Managers](#package-managers)
-  * [Loaders](#loaders)
-  * Utilities
-    * [Files](#files)
-    * [Functional Programming](#functional-programming)
-    * [Reactive Programming](#reactive-programming)
-    * [Data Structure](#data-structure)
-    * [Date](#date)
-    * [String](#string)
-    * [Number](#number)
-    * [Storage](#storage)
-    * [Color](#color)
-    * [I18n And L10n](#i18n-and-l10n)
-    * [Class](#class)
-    * [Control Flow](#control-flow)
-    * [Routing](#routing)
-    * [Security](#security)
-    * [Log](#log)
-    * [RegExp](#regexp)
-    * [Media](#media)
-    * [Voice Command](#voice-command)
-    * [API](#api)
-    * [Vision Detection](#vision-detection)
-    * [Browser Detection](#browser-detection)
-  * UI
-    * [Code Highlighting](#code-highlighting)
-    * [Loading Status](#loading-status)
-    * [Validation](#validation)
-    * [Keyboard Wrappers](#keyboard-wrappers)
-    * [Tours And Guides](#tours-and-guides)
-    * [Notifications](#notifications)
-    * [Sliders](#sliders)
-    * [Range Sliders](#range-sliders)
-    * [Form Widgets](#form-widgets)
-    * [Tips](#tips)
-    * [Modals and Popups](#modals-and-popups)
-    * [Scroll](#scroll)
-    * [Menu](#menu)
-    * [Table/Grid](#tablegrid)
-    * [Frameworks](#frameworks-1)
-  * Mobile
-    * [Gesture](#gesture)
-  * [Maps](#maps)
-  * [Animations](#animations)
-  * [Image processing](#image-processing)
-  * [ES6](#es6)
-  * [SDK](#sdk)
-  * [Misc](#misc)
-* [Worth Reading](#worth-reading)
-* [Other Awesome Lists](#other-awesome-lists)
-* [Contributing](#contributing)
-
-----
+* [Salesforce Official Resources](#Salesforce-official)
+### Salesforce-official
+* [Trailhead](https://developer.salesforce.com/trailhead) - Trailhead teaches you how to build cloud apps for free with fun, interactive tutorials. Stand out by learning in-demand Salesforce development skills..
+* [blanket](https://github.com/alex-seville/blanket) - A simple code coverage library for javascript. Designed to be easy to install and use, for both browser and nodejs.
+* [JSCover](https://github.com/tntim96/JSCover) - JSCover is a tool that measures code coverage for JavaScript programs.
