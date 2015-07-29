@@ -1,2 +1,58 @@
-# awesome-salesforce
-A curated list of delightful Salesforce Platform Resources
+# Awesome Salesforce
+
+A collection of awesome Salesforce.com Platform Related[Salesforce](https://www.salesforce.com) libraries, resources and shiny things.
+
+* [Awesome Official Resources](#awesome-salesforce-official)
+  * [Package Managers](#package-managers)
+  * [Loaders](#loaders)
+  * Utilities
+    * [Files](#files)
+    * [Functional Programming](#functional-programming)
+    * [Reactive Programming](#reactive-programming)
+    * [Data Structure](#data-structure)
+    * [Date](#date)
+    * [String](#string)
+    * [Number](#number)
+    * [Storage](#storage)
+    * [Color](#color)
+    * [I18n And L10n](#i18n-and-l10n)
+    * [Class](#class)
+    * [Control Flow](#control-flow)
+    * [Routing](#routing)
+    * [Security](#security)
+    * [Log](#log)
+    * [RegExp](#regexp)
+    * [Media](#media)
+    * [Voice Command](#voice-command)
+    * [API](#api)
+    * [Vision Detection](#vision-detection)
+    * [Browser Detection](#browser-detection)
+  * UI
+    * [Code Highlighting](#code-highlighting)
+    * [Loading Status](#loading-status)
+    * [Validation](#validation)
+    * [Keyboard Wrappers](#keyboard-wrappers)
+    * [Tours And Guides](#tours-and-guides)
+    * [Notifications](#notifications)
+    * [Sliders](#sliders)
+    * [Range Sliders](#range-sliders)
+    * [Form Widgets](#form-widgets)
+    * [Tips](#tips)
+    * [Modals and Popups](#modals-and-popups)
+    * [Scroll](#scroll)
+    * [Menu](#menu)
+    * [Table/Grid](#tablegrid)
+    * [Frameworks](#frameworks-1)
+  * Mobile
+    * [Gesture](#gesture)
+  * [Maps](#maps)
+  * [Animations](#animations)
+  * [Image processing](#image-processing)
+  * [ES6](#es6)
+  * [SDK](#sdk)
+  * [Misc](#misc)
+* [Worth Reading](#worth-reading)
+* [Other Awesome Lists](#other-awesome-lists)
+* [Contributing](#contributing)
+
+----
