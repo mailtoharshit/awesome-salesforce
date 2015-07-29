@@ -16,8 +16,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## What makes for an awesome list?
 Read [the awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) and ensure your list complies.
 
-* [Salesforce Official Resources](#Salesforce-official)
-* [Technical Blog](#Technical-Blog)
+
+##Awesomeness 
+
+- [Salesforce Official Resources](###Salesforce-official)
+- [Technical Blog](###Technical-Blog)
+- [Mad science](#mad-science)
 
 
 ### Salesforce-official
