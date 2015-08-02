@@ -8,18 +8,13 @@
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete awesome list [awesome-list](https://github.com/sindresorhus/awesome).*
 
 ## What is Awesome Salesforce ? 
-   Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/sindresorhus/) who is most popular person on Github on [planet earth](http://githubranking.com/sindresorhus). He created an awesome project which list down awesome page (dedicated to a technology). 
+Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/sindresorhus/) who is most popular person on  [Github](http://githubranking.com/sindresorhus). He created a project to list down coolest of links bookmarked in your machines and organized them together by compiling them to one place. Later, this projects was cought fire, developer community around the world wrote awesome page (dedicated to their favorite technology). 
 
-## What are we supposed to do ?
-   Bring in your resource, links that you want to share with world here and make this page awesomer, once it qualifies, we can add this page to [official list](https://github.com/sindresorhus/awesome)
+## What are you supposed to do ?
+Bring in your resource, links that you want to share with world here and make this page awesomer, once it qualifies, we can add this page to [official list](https://github.com/sindresorhus/awesome)
 
 ## What makes for an awesome list?
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
-
-
-
-
-
 
 ##Table of Contents
 
@@ -28,7 +23,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 
 ### Salesforce-official
-* [Trailhead](https://developer.salesforce.com/trailhead) - Trailhead teaches you how to build cloud apps for free with fun, interactive tutorials. Stand out by learning in-demand Salesforce development skills..
+* [Trailhead](https://developer.salesforce.com/trailhead) - Trailhead teaches you how to build cloud apps for free with fun, interactive tutorials. Stand out by learning in-demand Salesforce development skills.
 * [Salesforce Git Repo](https://github.com/forcedotcom) - Grab all latest salesforce open source projects here.
 * [Salesforce Developer Releations Blog](https://developer.salesforce.com/blogs/) - Managed by Salesforce Developer Relations Team, you will find coolest of updates in the world of Salesforce, mostly experienments, features and developer evagelist blog official from this podium.
 * [Salesforce Git Repo](https://github.com/forcedotcom) - Grab all latest salesforce open source projects here, you will find awesome projects, framework, libraries that salesforce and opened for the world
