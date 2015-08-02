@@ -1,11 +1,11 @@
 
-[![](http://i.imgur.com/bVyBop4.png?1)]
+# Awesome Electron [![Awesome]()](https://login.salesforce.com)
 
-# Awesome Salesforce
+[<img src="https://rawgit.com/sindresorhus/awesome-electron/master/electron-logo.svg" align="right" width="100">](http://electron.atom.io)
 
-> A collection of awesome [Salesforce Platform](https://www.salesforce.com) shiny things.
+> Useful resources for creating apps with [Electron](http://electron.atom.io)
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete awesome list  [awesome-list](https://github.com/sindresorhus/awesome).*
 
 ## What is Awesome Salesforce ? 
    Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/sindresorhus/) who is most popular person on Github on [planet earth](http://githubranking.com/sindresorhus). He created an awesome project which list down awesome page (dedicated to a technology). 
