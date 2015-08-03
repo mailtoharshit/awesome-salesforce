@@ -14,10 +14,6 @@ Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/s
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) first.
 
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
 ## What makes for an awesome list?
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
 
@@ -44,3 +40,8 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Peter Knolle](http://peterknolle.com/) - Peter Knolle enjoys working with all kinds of different technologies. Certified Salesforce.com professional, and Force.com MVP. [Read More] (http://peterknolle.com/about/)  
 * [Abhinav Gupta](http://www.tgerm.com/)- Force.com MVP & Architect - Passionate about S1 & Javascript, Architect by Profession and now owner of his company focusing on salesforce Consulting [Read More] (https://plus.google.com/+AbhinavGuptaIn/posts) 
 * [Jitendra Zaa](http://www.jitendrazaa.com/blog//)- 7 Salesforce Certificates, MVP and Technical Architect working on platform since 2008 [Read More] (http://jitendrazaa.com/) 
+
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
