@@ -13,24 +13,22 @@ Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/s
 ## What makes for an awesome list?
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
 
-##Table of Contents
-
-- [Salesforce Official Resources](#salesforce-official)
-- [Technical Blog](#technical-blogs)
-
-
 ### Learning Salesforce Platform 
 * [Trailhead](https://developer.salesforce.com/trailhead) - Trailhead teaches you how to build cloud apps for free with fun, interactive tutorials. Stand out by learning in-demand Salesforce development skills.
 
 ### Open Source Projects Repositories from Salesforce 
- [<img src="https://avatars0.githubusercontent.com/u/464563?v=3&s=80" align="right" width="80">](https://github.com/forcedotcom)
+ [<img src="https://avatars0.githubusercontent.com/u/464563?v=3&s=120" align="right" width="120">](https://github.com/forcedotcom)
 * [Salesforce Git Repo](https://github.com/forcedotcom) - Grab all latest salesforce open source projects here. 
 * [Salesforce Developer Releations Blog](https://developer.salesforce.com/blogs/) - Managed by Salesforce Developer Relations Team, you will find coolest of updates in the world of Salesforce, mostly experienments, features and developer evagelist blog official from this podium.  
 * [Salesforce Git Repo](https://github.com/forcedotcom) - Grab all latest salesforce open source projects here, you will find awesome projects, framework, libraries that salesforce and opened for the world
 * [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/) - Covers latest update from engineering team, you will find updates about core engineering and product releated post and some awesome people to follow
 
 ### Salesforce Mobile Packs for Javascript Libraries 
-*  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/polymer.png" align="left" width="80">](https://github.com/ForceDotComLabs/mobile-ui-elements) Google Polymer Pack : [Try Designer](https://sfdc-designer.herokuapp.com/) | [Github Repo](https://github.com/ForceDotComLabs/mobile-ui-elements) | [Watch this Designer video](https://www.youtube.com/watch?v=67FjSemJ7uQ&feature=youtu.be) | 
+Google Polymer Pack : [Try Designer](https://sfdc-designer.herokuapp.com/) | [Github Repo](https://github.com/ForceDotComLabs/mobile-ui-elements) | [Watch this Designer video](https://www.youtube.com/watch?v=67FjSemJ7uQ&feature=youtu.be)  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/polymer.png" align="left" width="80">](https://github.com/ForceDotComLabs/mobile-ui-elements) :Build your Mobile App with a set of new HTML tags that ease the development of salesforce driven user interfaces. It's based on the Google’s Polymer framework and uses Web Components to provide fundamental building blocks for creating an Offline enabled application with Salesforce Mobile SDK
+
+Jquery Pack : [Get Started](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery) | [Github Repo](https://github.com/developerforce/MobilePack-jQueryMobile) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365443533/mxpjwcbxf1zxg4ptzyf1.png" align="left" width="80">] :Quickly create mobile web and hybrid apps using the Mobile Pack for jQuery Mobile. jQuery Mobile is a touch-optimized web framework that lets you develop mobile web applications using HTML5, JavaScript and CSS3 for a wide variety of smartphones and tablet computers.
+
+
 
 ### Technical Blogs 
 * [Christophe Coenraets](http://coenraets.org/blog/) - Christophe Coenraets is a Developer Evangelist for Salesforce.com where he focuses on mobile application development, [Read More] (http://coenraets.org/blog/bio/)
