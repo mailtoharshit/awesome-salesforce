@@ -29,7 +29,6 @@ Google Polymer Pack : [Try Designer](https://sfdc-designer.herokuapp.com/) | [Gi
 Build your Mobile App with a set of new HTML tags that ease the development of salesforce driven user interfaces. It's based on the Google’s Polymer framework and uses Web Components to provide fundamental building blocks for creating an Offline enabled application with Salesforce Mobile SDK
 
 AngularJS Pack : [Get Started](https://developer.salesforce.com/en/mobile/getting-started/html5/#angularjs) | [Github Repo](https://github.com/developerforce/MobilePack-AngularJS)  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365443678/dsl4du0pi46hb28za8jz.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
-
 Design and build apps that separate UI, logic, and data using Mobile Pack for AngularJS. Google's AngularJS lets you reap the benefits of a Model-View-Control architecture in your JavaScript code and utilize advanced features like reusable components and dependency injection.
 
 
