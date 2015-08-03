@@ -19,8 +19,11 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 - [Technical Blog](#technical-blogs)
 
 
-### Salesforce-official
+### Learning Salesforce Platform 
 * [Trailhead](https://developer.salesforce.com/trailhead) - Trailhead teaches you how to build cloud apps for free with fun, interactive tutorials. Stand out by learning in-demand Salesforce development skills.
+
+### Open Source Projects Repositories from Salesforce (#salesforce-official-github-projects) [<img src="https://avatars0.githubusercontent.com/u/464563?v=3&s=200" align="right" width="300">](https://github.com/forcedotcom)
+*
 * [Salesforce Git Repo](https://github.com/forcedotcom) - Grab all latest salesforce open source projects here.
 * [Salesforce Developer Releations Blog](https://developer.salesforce.com/blogs/) - Managed by Salesforce Developer Relations Team, you will find coolest of updates in the world of Salesforce, mostly experienments, features and developer evagelist blog official from this podium.
 * [Salesforce Git Repo](https://github.com/forcedotcom) - Grab all latest salesforce open source projects here, you will find awesome projects, framework, libraries that salesforce and opened for the world
