@@ -10,8 +10,13 @@
 ## What is Awesome Salesforce ? 
 Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/sindresorhus/) who is most popular person on  [Github](http://githubranking.com/sindresorhus). He created a project to list down coolest of links bookmarked in your machines and organized them together by compiling them at one place. Later, this projects cought fire and developers community around the world started writing awesome pages (dedicated to their favorite technology). 
 
-## What are you supposed to do ?
-Bring in your resource, links that you want to share with world here and make this page awesomer, once it qualifies, we can add this page to [official list](https://github.com/sindresorhus/awesome)
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) first.
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ## What makes for an awesome list?
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
