@@ -28,8 +28,6 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
  * [__StackOverFlow__ ](http://stackoverflow.com/questions/tagged/salesforce):  Post your questions with right tags like apex, visualforce and salesforce to get a quick response.
  * [__StackExchange__ ](http://salesforce.stackexchange.com/): Salesforce Stack Exchange is a question and answer site for Salesforce administrators, implementation experts, developers and anybody in-between. It's 100% free, no registration required. 
 
-
-
 ### Open Source Projects Repositories from Salesforce 
 [<img src="https://avatars0.githubusercontent.com/u/464563?v=3&s=120" align="right" width="120">](https://github.com/forcedotcom)
 * [Salesforce Git Repo](https://github.com/forcedotcom) - Grab all latest salesforce open source projects here, you will find awesome projects, framework, libraries that salesforce and opened for the world 
@@ -68,6 +66,21 @@ Mobilize your Salesforce data and build native, cross-platform apps from a singl
 
 VizApps Pack : [Get Started](http://www.viziapps.com/learn-more/create-custom-mobile-apps-with-salesforce-data) | [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/viziapps_web_logo_2.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
 Create mobile apps with device feature-driven workflow using your standard or custom objects with Mobile Pack for ViziApps. Combine flexible UX design with Salesforce data into your app’s workflow without coding, then publish to the Apple App Store, Google Play, or directly to your enterprise users.
+
+# Browser extensions for Salesforce
+
+## Toggle it &nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)
+
+To debug javascript on visualforce page in Salesforce.com, quite often user have to turn off 'Development Mode' on and off. This application will let you toggle on/off in one click in and no time and makes life easy for your debug JavaScript on pages. The objective is to make life easy for developer and make a handy tool
+
+![List prompt](http://i.imgur.com/ImgqbSV.png)
+
+
+## Force.com Login&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png"  >](https://addons.mozilla.org/en-us/firefox/addon/salesforce-login/)
+
+This extension manages your salesforce.com login information and lets you quickly login. Most of the Force.com developers have multiple accounts, and they are tired of entering username and password every time they move from an account to the other
+
+![List prompt](http://i.imgur.com/RKPXP7l.png)
 
 
 ### Technical Blogs 
