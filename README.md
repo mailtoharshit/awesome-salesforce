@@ -14,8 +14,22 @@ Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/s
 ## What makes for an awesome list?
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
 
+Troubleshooting and queries
+
+You might be facing some issues, or having some questions. Best way to sort out is talk to your peers, still the problem is not solved. Here are few quick ways
+
+
 ### Learning Salesforce Platform 
 * [Trailhead](https://developer.salesforce.com/trailhead) - Trailhead teaches you how to build cloud apps for free with fun, interactive tutorials. Stand out by learning in-demand Salesforce development skills.
+* [Udemy Course](https://www.udemy.com/salesforce-training/) - Hands on detailed and complete Instruction for both Admin and Developer part of Salesforce CRM.
+
+## Troubleshooting and queries
+ * [__Force.com Discussion boards__](http://boards.developerforce.com/sforce/?category.id=developers) : Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here].
+ * [__Tweet__](https://twitter.com/hashtag/askforce): Force.com community is pretty active on Twitter, tweet your question with hash #askforce
+ * [__StackOverFlow__ ](http://stackoverflow.com/questions/tagged/salesforce):  Post your questions with right tags like apex, visualforce and salesforce to get a quick response.
+ * [__StackExchange__ ](http://salesforce.stackexchange.com/): Salesforce Stack Exchange is a question and answer site for Salesforce administrators, implementation experts, developers and anybody in-between. It's 100% free, no registration required. 
+
+
 
 ### Open Source Projects Repositories from Salesforce 
 [<img src="https://avatars0.githubusercontent.com/u/464563?v=3&s=120" align="right" width="120">](https://github.com/forcedotcom)
