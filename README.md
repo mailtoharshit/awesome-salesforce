@@ -1,5 +1,5 @@
 
-# Awesome Salesforce  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Salesforce  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/quozd/awesome-dotnet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mailtoharshit/awesome-salesforce)
 
 [<img src="https://login.salesforce.com/img/logo190.png" align="right" width="300">](http://login.salesforce.com)
 
@@ -7,7 +7,6 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete awesome list [awesome-list](https://github.com/sindresorhus/awesome).*
 
-**Gitter Discussion - We have an open chat room for discussion on page improvement, if you interested in contribution, please join in chatter post [here](https://gitter.im/mailtoharshit/awesome-salesforce)
 
 ## What is Awesome Salesforce ? 
 Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/sindresorhus/) who is most popular person on  [Github](http://githubranking.com/sindresorhus). He created a project to list down coolest of links bookmarked in your machines and organized them together by compiling them at one place. Later, this projects cought fire and developers community around the world started writing awesome pages (dedicated to their favorite technology). 
