@@ -14,9 +14,8 @@ Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/s
 ## What makes for an awesome list?
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
 
-Troubleshooting and queries
-
-You might be facing some issues, or having some questions. Best way to sort out is talk to your peers, still the problem is not solved. Here are few quick ways
+### Salesforce Developer Free Edition Signup
+* [Signup for Free Developer Account](https://developer.salesforce.com/signup) - Signup for Free Developer Account.
 
 
 ### Learning Salesforce Platform 
