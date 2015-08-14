@@ -22,6 +22,16 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Trailhead](https://developer.salesforce.com/trailhead) - Trailhead teaches you how to build cloud apps for free with fun, interactive tutorials. Stand out by learning in-demand Salesforce development skills.
 * [Udemy Course](https://www.udemy.com/salesforce-training/) - Hands on detailed and complete Instruction for both Admin and Developer part of Salesforce CRM.
 
+### Salesforce Certification Program
+[<img src="http://www.runconsultants.com/wp-content/uploads/2015/04/salesforce-certified-e1429111675579.png" align="right" width="120">](http://certification.salesforce.com/)
+ * Introducing three new Salesforce certifications:[ Salesforce Platform App Builder](http://certification.salesforce.com/app-builders), [Salesforce Platform Developer I](http://certification.salesforce.com/platform-developers), and  [Salesforce Platform Developer II](http://certification.salesforce.com/platform-developers).
+ 
+ * Online Salesforce Certification Credentials Verification [Click Here](http://certification.salesforce.com/verification) 
+ * Ready to register for an exam? [Click here](https://www.webassessor.com/wa.do?page=publicHome&branding=SALESFORCE).
+
+### Salesforce University 
+ * [Salesforce University Home](https://partners.salesforce.com/s/SalesforceUniversity.png?v=3)
+
 ## Troubleshooting and queries
  * [__Force.com Discussion boards__](http://boards.developerforce.com/sforce/?category.id=developers) : Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here].
  * [__Tweet__](https://twitter.com/hashtag/askforce): Force.com community is pretty active on Twitter, tweet your question with hash #askforce
@@ -33,6 +43,23 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Salesforce Git Repo](https://github.com/forcedotcom) - Grab all latest salesforce open source projects here, you will find awesome projects, framework, libraries that salesforce and opened for the world 
 * [Salesforce Developer Releations Blog](https://developer.salesforce.com/blogs/) - Managed by Salesforce Developer Relations Team, you will find coolest of updates in the world of Salesforce, mostly experienments, features and developer evagelist blog official from this podium.  
 * [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/) - Covers latest update from engineering team, you will find updates about core engineering and product releated post and some awesome people to follow
+
+
+
+### Browser extensions for Salesforce
+
+## Toggle it &nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)
+
+To debug javascript on visualforce page in Salesforce.com, quite often user have to turn off 'Development Mode' on and off. This application will let you toggle on/off in one click in and no time and makes life easy for your debug JavaScript on pages. The objective is to make life easy for developer and make a handy tool
+
+![List prompt](http://i.imgur.com/ImgqbSV.png)
+
+
+## Force.com Login&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png"  >](https://addons.mozilla.org/en-us/firefox/addon/salesforce-login/)
+
+This extension manages your salesforce.com login information and lets you quickly login. Most of the Force.com developers have multiple accounts, and they are tired of entering username and password every time they move from an account to the other
+
+![List prompt](http://i.imgur.com/RKPXP7l.png)
 
 ### Salesforce Mobile Packs for Javascript Libraries [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365281769/ypqq9g8at1y1yqoo8h6g.png" align="right" width="300">](https://developer.salesforce.com/mobile/services/mobile-packs) 
 
@@ -66,22 +93,6 @@ Mobilize your Salesforce data and build native, cross-platform apps from a singl
 
 VizApps Pack : [Get Started](http://www.viziapps.com/learn-more/create-custom-mobile-apps-with-salesforce-data) | [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/viziapps_web_logo_2.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
 Create mobile apps with device feature-driven workflow using your standard or custom objects with Mobile Pack for ViziApps. Combine flexible UX design with Salesforce data into your app’s workflow without coding, then publish to the Apple App Store, Google Play, or directly to your enterprise users.
-
-# Browser extensions for Salesforce
-
-## Toggle it &nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)
-
-To debug javascript on visualforce page in Salesforce.com, quite often user have to turn off 'Development Mode' on and off. This application will let you toggle on/off in one click in and no time and makes life easy for your debug JavaScript on pages. The objective is to make life easy for developer and make a handy tool
-
-![List prompt](http://i.imgur.com/ImgqbSV.png)
-
-
-## Force.com Login&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png"  >](https://addons.mozilla.org/en-us/firefox/addon/salesforce-login/)
-
-This extension manages your salesforce.com login information and lets you quickly login. Most of the Force.com developers have multiple accounts, and they are tired of entering username and password every time they move from an account to the other
-
-![List prompt](http://i.imgur.com/RKPXP7l.png)
-
 
 ### Technical Blogs 
 * [Christophe Coenraets](http://coenraets.org/blog/) - Christophe Coenraets is a Developer Evangelist for Salesforce.com where he focuses on mobile application development, [Read More] (http://coenraets.org/blog/bio/)
