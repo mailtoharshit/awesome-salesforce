@@ -39,7 +39,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
  * [__StackExchange__ ](http://salesforce.stackexchange.com/): Salesforce Stack Exchange is a question and answer site for Salesforce administrators, implementation experts, developers and anybody in-between. It's 100% free, no registration required. 
 ### Official Salesforce Twitter Accounts [<img src="https://g.twimg.com/Twitter_logo_blue.png" align="right" width="60">](https://twitter.com/)
 
- *
+
  * [Salesforce Developers](https://twitter.com/SalesforceDevs)
  * [Salesforce Docs](https://twitter.com/salesforcedocs)
  * [Salesforce Stack Exchange](https://twitter.com/StackSalesforce)
