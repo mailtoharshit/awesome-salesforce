@@ -30,14 +30,28 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
  * Ready to register for an exam? [Click here](https://www.webassessor.com/wa.do?page=publicHome&branding=SALESFORCE).
 
 ### Salesforce University 
- * [Salesforce University Home](https://partners.salesforce.com/s/SalesforceUniversity.png?v=3)
+ * [<img src="https://partners.salesforce.com/s/SalesforceUniversity.png?v=1" align="right" width="120">]()[Salesforce University Home](https://partners.salesforce.com/s/SalesforceUniversity.png?v=3)
+
+
 
 ## Troubleshooting and queries
  * [__Force.com Discussion boards__](http://boards.developerforce.com/sforce/?category.id=developers) : Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here].
  * [__Tweet__](https://twitter.com/hashtag/askforce): Force.com community is pretty active on Twitter, tweet your question with hash #askforce
  * [__StackOverFlow__ ](http://stackoverflow.com/questions/tagged/salesforce):  Post your questions with right tags like apex, visualforce and salesforce to get a quick response.
  * [__StackExchange__ ](http://salesforce.stackexchange.com/): Salesforce Stack Exchange is a question and answer site for Salesforce administrators, implementation experts, developers and anybody in-between. It's 100% free, no registration required. 
+ * 
+### Official Salesforce Twitter Accounts [<img src="https://g.twimg.com/Twitter_logo_blue.png" align="right" width="120">](https://twitter.com/)
 
+ * [Salesforce Developers](https://twitter.com/SalesforceDevs)
+ * [Salesforce Docs](https://twitter.com/salesforcedocs)
+ * [Salesforce PartnerForce](https://twitter.com/partnerforce)
+ * [Salesforce Stack Exchange](https://twitter.com/StackSalesforce)
+ * [Salesforce Service Cloud](https://twitter.com/ServiceCloud)
+ * [Salesforce ForceDotComLabs](https://twitter.com/ForceDotComLabs)
+ * [Salesforce SalesforceLive](https://twitter.com/SalesforceLive)
+ * [Salesforce Engineering](https://twitter.com/SalesforceEng)
+ * [Salesforce UX](https://twitter.com/SalesforceUX)
+ 
 ### Open Source Projects Repositories from Salesforce 
 [<img src="https://avatars0.githubusercontent.com/u/464563?v=3&s=120" align="right" width="120">](https://github.com/forcedotcom)
 * [Salesforce Git Repo](https://github.com/forcedotcom) - Grab all latest salesforce open source projects here, you will find awesome projects, framework, libraries that salesforce and opened for the world 
