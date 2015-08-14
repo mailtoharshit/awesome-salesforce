@@ -42,8 +42,8 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
  * 
 ### Official Salesforce Twitter Accounts [<img src="https://g.twimg.com/Twitter_logo_blue.png" align="right" width="120">](https://twitter.com/)
 
- * [Salesforce Developers](https://twitter.com/SalesforceDevs)
  * [Salesforce Docs](https://twitter.com/salesforcedocs)
+ * [Salesforce Developers](https://twitter.com/SalesforceDevs)
  * [Salesforce PartnerForce](https://twitter.com/partnerforce)
  * [Salesforce Stack Exchange](https://twitter.com/StackSalesforce)
  * [Salesforce Service Cloud](https://twitter.com/ServiceCloud)
