@@ -54,12 +54,12 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 ### Official YouTube Accounts [<img src="http://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png" align="right" height="140" width="160">](https://www.youtube.com/user/salesforce)
 
-+### IDE
+
+### IDE
 * [Force.com IDE](https://developer.salesforce.com/page/Force.com_IDE) - Based on Eclipse Platform, supported and packaged by Salesforce.com
 * [Mavensmate for Sublime & Atom](http://mavensmate.com/) - Widely popular, 3rd party plugin package for Sublime Text and Atom editors
 * [BrainEngine] (http://www.brainengine.net/) - Premier IDE for Force.com Development, based on Visual Studio.
 * [ASIDE.IO] (https://www.aside.io) - Online Editor, fast and connects to any Salesforce org quickly.
-
 
 
 ### Open Source Projects Repositories from Salesforce 
