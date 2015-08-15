@@ -7,7 +7,7 @@
 
 > Useful resources for creating apps with [Salesforce](http://login.salesforce.com)
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete awesome list [awesome-list](https://github.com/sindresorhus/awesome).*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome).*
 
 
 ## What is Awesome Salesforce ? 
