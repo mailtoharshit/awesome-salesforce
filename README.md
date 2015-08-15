@@ -43,9 +43,25 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 ### Open Source Projects Repositories from Salesforce 
 [<img src="https://avatars0.githubusercontent.com/u/464563?v=3&s=120" align="right" width="120">](https://github.com/forcedotcom)
 * [Salesforce Git Repo](https://github.com/forcedotcom) - Grab all latest salesforce open source projects here, you will find awesome projects, framework, libraries that salesforce and opened for the world 
-* [Salesforce Developer Releations Blog](https://developer.salesforce.com/blogs/) - Managed by Salesforce Developer Relations Team, you will find coolest of updates in the world of Salesforce, mostly experienments, features and developer evagelist blog official from this podium.  
-* [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/) - Covers latest update from engineering team, you will find updates about core engineering and product releated post and some awesome people to follow
+* [ForcedotCom Labs](https://github.com/ForceDotComLabs) - Checkout open source and experimental projects from Salesforce Team. Get an early access to features that can qualify in feature and contribute your ideas
+* [Salesforce Mobile UI - Polymer Elements for Salesforce] (https://github.com/ForceDotComLabs/mobile-ui-elements) - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets
 
+### Open Source : SDK 
+* [Salesfoce MobileSDK for iOS](https://github.com/forcedotcom/SalesforceMobileSDK-iOS)-If you'd like to work with the source code of the SDK itself, you've come to the right place! You can browse sample app source code and debug down through the layers to get a feel for how everything works under the covers. 
+
+* [Salesfoce MobileSDK for Windows](https://github.com/forcedotcom/SalesforceMobileSDK-Windows)-Build the project normally in Visual Studio; everything should build fine. If you wish to create a new project and not use the NuGet versions of the core libraries, simply create a new project with the template, remove the NuGet reference and add references to Salesforce.SDK.Core, Salesforce.SDK.Store (for windows projects) or Salesforce.SDK.Phone for phone projects.
+
+* [Salesfoce MobileSDK for Windows](https://github.com/forcedotcom/SalesforceMobileSDK-Android)- Source repository for the Salesforce Mobile SDK for Android. 
+
+* [Analytics-Cloud-Dataset-Utils](https://github.com/forcedotcom/Analytics-Cloud-Dataset-Utils)- Utility to load external data into Analytics Cloud datasets, and transform existing datasets.
+
+### Open Source : Packages/Gems for Salesforce
+
+*[Cinnamon](https://github.com/forcedotcom/cinnamon)-Cinnamon is a Force.com app that enables you to build and run Selenium tests to validate custom UI pages with Visualforce/Javascript in your Salesforce org.
+
+*[Push Notification Plugin for iOS and Android](https://github.com/forcedotcom/PushPlugin)- Cordova Push Notifications Plugin for Android, iOS, WP8 and Amazon Fire OS
+
+*[Salesforce1-Dev-Guide-Setup-Package](https://github.com/forcedotcom/Salesforce1-Dev-Guide-Setup-Package)-Salesforce1-Dev-Guide-Setup-Package
 ### Salesforce Mobile Packs for Javascript Libraries [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365281769/ypqq9g8at1y1yqoo8h6g.png" align="right" width="300">](https://developer.salesforce.com/mobile/services/mobile-packs) 
 
 Google Polymer Pack : [Try Designer](https://sfdc-designer.herokuapp.com/) | [Github Repo](https://github.com/ForceDotComLabs/mobile-ui-elements) | [Watch Designer Video](https://www.youtube.com/watch?v=67FjSemJ7uQ&feature=youtu.be) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/polymer.png" align="left" width="180">](https://github.com/ForceDotComLabs/mobile-ui-elements) 
@@ -101,6 +117,8 @@ Create mobile apps with device feature-driven workflow using your standard or cu
  
 
 ### Technical Blogs 
+* [Salesforce Developer Releations Blog](https://developer.salesforce.com/blogs/) - Managed by Salesforce Developer Relations Team, you will find coolest of updates in the world of Salesforce, mostly experienments, features and developer evagelist blog official from this podium.  
+* [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/) - Covers latest update from engineering team, you will find updates about core engineering and product releated post and some awesome people to follow
 * [Christophe Coenraets](http://coenraets.org/blog/) - Christophe Coenraets is a Developer Evangelist for Salesforce.com where he focuses on mobile application development, [Read More] (http://coenraets.org/blog/bio/)
 * [Jeff Doughlas](http://coenraets.org/blog/) - Senior Technical Consultant at Appirio & Developer Evangelist Architect at topcoder specializing in cloud-based, APIs & mobile apps. [Read More] (http://blog.jeffdouglas.com/about/)
 * [Keir Bowden](http://bobbuzzard.blogspot.com/)- Also known as Keir Bowden and Keir is Chief Technical Officer at BrightGen, a Salesforce Platinum Partner, in the United Kingdom.[Read More] (https://www.blogger.com/profile/07815472992351343395)
