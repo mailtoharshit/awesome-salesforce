@@ -80,17 +80,7 @@ VizApps Pack : [Get Started](http://www.viziapps.com/learn-more/create-custom-mo
 Create mobile apps with device feature-driven workflow using your standard or custom objects with Mobile Pack for ViziApps. Combine flexible UX design with Salesforce data into your app’s workflow without coding, then publish to the Apple App Store, Google Play, or directly to your enterprise users.
 
 ### Browser extensions for Salesforce
-## Toggle it &nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)
-
-To debug javascript on visualforce page in Salesforce.com, quite often user have to turn off 'Development Mode' on and off. This application will let you toggle on/off in one click in and no time and makes life easy for your debug JavaScript on pages. The objective is to make life easy for developer and make a handy tool
-
-[<img src="http://i.imgur.com/ImgqbSV.png" align="center" width="400">](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)
-
-## Force.com Login&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png"  >](https://addons.mozilla.org/en-us/firefox/addon/salesforce-login/)
-
-This extension manages your salesforce.com login information and lets you quickly login. Most of the Force.com developers have multiple accounts, and they are tired of entering username and password every time they move from an account to the other
-
-[<img src="http://i.imgur.com/RKPXP7l.png" align="center" width="400">](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)
+  Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
 
 ## Troubleshooting and queries
  * [__Force.com Discussion boards__](http://boards.developerforce.com/sforce/?category.id=developers) : Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here].
