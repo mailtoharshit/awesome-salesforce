@@ -57,11 +57,11 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 ### Open Source : Packages/Gems for Salesforce
 
-*[Cinnamon](https://github.com/forcedotcom/cinnamon)-Cinnamon is a Force.com app that enables you to build and run Selenium tests to validate custom UI pages with Visualforce/Javascript in your Salesforce org.
+* [Cinnamon](https://github.com/forcedotcom/cinnamon)-Cinnamon is a Force.com app that enables you to build and run Selenium tests to validate custom UI pages with Visualforce/Javascript in your Salesforce org.
 
-*[Push Notification Plugin for iOS and Android](https://github.com/forcedotcom/PushPlugin)- Cordova Push Notifications Plugin for Android, iOS, WP8 and Amazon Fire OS
+* [Push Notification Plugin for iOS and Android](https://github.com/forcedotcom/PushPlugin)- Cordova Push Notifications Plugin for Android, iOS, WP8 and Amazon Fire OS
 
-*[Salesforce1-Dev-Guide-Setup-Package](https://github.com/forcedotcom/Salesforce1-Dev-Guide-Setup-Package)-Salesforce1-Dev-Guide-Setup-Package
+* [Salesforce1-Dev-Guide-Setup-Package](https://github.com/forcedotcom/Salesforce1-Dev-Guide-Setup-Package)-Salesforce1-Dev-Guide-Setup-Package
 ### Salesforce Mobile Packs for Javascript Libraries [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365281769/ypqq9g8at1y1yqoo8h6g.png" align="right" width="300">](https://developer.salesforce.com/mobile/services/mobile-packs) 
 
 Google Polymer Pack : [Try Designer](https://sfdc-designer.herokuapp.com/) | [Github Repo](https://github.com/ForceDotComLabs/mobile-ui-elements) | [Watch Designer Video](https://www.youtube.com/watch?v=67FjSemJ7uQ&feature=youtu.be) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/polymer.png" align="left" width="180">](https://github.com/ForceDotComLabs/mobile-ui-elements) 
