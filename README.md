@@ -63,6 +63,9 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 * [Salesforce1-Dev-Guide-Setup-Package](https://github.com/forcedotcom/Salesforce1-Dev-Guide-Setup-Package)-Salesforce1-Dev-Guide-Setup-Package
 
+### Browser extensions for Salesforce
+  Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
+
 ### Salesforce Mobile Packs for Javascript Libraries [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365281769/ypqq9g8at1y1yqoo8h6g.png" align="right" width="300">](https://developer.salesforce.com/mobile/services/mobile-packs) 
 
 Google Polymer Pack : [Try Designer](https://sfdc-designer.herokuapp.com/) | [Github Repo](https://github.com/ForceDotComLabs/mobile-ui-elements) | [Watch Designer Video](https://www.youtube.com/watch?v=67FjSemJ7uQ&feature=youtu.be) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/polymer.png" align="left" width="180">](https://github.com/ForceDotComLabs/mobile-ui-elements) 
@@ -95,9 +98,6 @@ Mobilize your Salesforce data and build native, cross-platform apps from a singl
 
 VizApps Pack : [Get Started](http://www.viziapps.com/learn-more/create-custom-mobile-apps-with-salesforce-data) | [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/viziapps_web_logo_2.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
 Create mobile apps with device feature-driven workflow using your standard or custom objects with Mobile Pack for ViziApps. Combine flexible UX design with Salesforce data into your app’s workflow without coding, then publish to the Apple App Store, Google Play, or directly to your enterprise users.
-
-### Browser extensions for Salesforce
-  Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
 
 ## Troubleshooting and queries
  * [__Force.com Discussion boards__](http://boards.developerforce.com/sforce/?category.id=developers) : Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here].
