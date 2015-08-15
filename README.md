@@ -51,7 +51,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 * [Salesfoce MobileSDK for Windows](https://github.com/forcedotcom/SalesforceMobileSDK-Windows)-Build the project normally in Visual Studio; everything should build fine. If you wish to create a new project and not use the NuGet versions of the core libraries, simply create a new project with the template, remove the NuGet reference and add references to Salesforce.SDK.Core, Salesforce.SDK.Store (for windows projects) or Salesforce.SDK.Phone for phone projects.
 
-* [Salesfoce MobileSDK for Windows](https://github.com/forcedotcom/SalesforceMobileSDK-Android)- Source repository for the Salesforce Mobile SDK for Android. 
+* [Salesfoce MobileSDK for Andriod](https://github.com/forcedotcom/SalesforceMobileSDK-Android)- Source repository for the Salesforce Mobile SDK for Android. 
 
 * [Analytics-Cloud-Dataset-Utils](https://github.com/forcedotcom/Analytics-Cloud-Dataset-Utils)- Utility to load external data into Analytics Cloud datasets, and transform existing datasets.
 
