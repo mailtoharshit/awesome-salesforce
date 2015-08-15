@@ -97,7 +97,6 @@ This extension manages your salesforce.com login information and lets you quickl
  * [__StackExchange__ ](http://salesforce.stackexchange.com/): Salesforce Stack Exchange is a question and answer site for Salesforce administrators, implementation experts, developers and anybody in-between. It's 100% free, no registration required. 
 ### Official Salesforce Twitter Accounts [<img src="https://g.twimg.com/Twitter_logo_blue.png" align="right" width="60">](https://twitter.com/)
 
-
  * [Salesforce Developers](https://twitter.com/SalesforceDevs)
  * [Salesforce Docs](https://twitter.com/salesforcedocs)
  * [Salesforce Stack Exchange](https://twitter.com/StackSalesforce)
@@ -108,9 +107,6 @@ This extension manages your salesforce.com login information and lets you quickl
  * [Salesforce UX](https://twitter.com/SalesforceUX)
  * [Salesforce PartnerForce](https://twitter.com/partnerforce) 
  
-### Official Salesforce Facebook Accounts [<img src="http://www.seeklogo.net/wp-content/uploads/2013/11/facebook-flat-vector-logo.png" align="right" width="60">](https://www.facebook.com/salesforce)
-
-### Official YouTube Accounts [<img src="http://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png" align="right" height="140" width="160">](https://www.youtube.com/user/salesforce)
 
 ### Technical Blogs 
 * [Christophe Coenraets](http://coenraets.org/blog/) - Christophe Coenraets is a Developer Evangelist for Salesforce.com where he focuses on mobile application development, [Read More] (http://coenraets.org/blog/bio/)
