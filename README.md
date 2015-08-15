@@ -32,35 +32,11 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 ### Salesforce University 
  * [<img src="https://partners.salesforce.com/s/SalesforceUniversity.png?v=1" align="right" width="100">]()[Salesforce University Home](https://partners.salesforce.com/s/SalesforceUniversity.png?v=3)
 
-## Troubleshooting and queries
- * [__Force.com Discussion boards__](http://boards.developerforce.com/sforce/?category.id=developers) : Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here].
- * [__Tweet__](https://twitter.com/hashtag/askforce): Force.com community is pretty active on Twitter, tweet your question with hash #askforce
- * [__StackOverFlow__ ](http://stackoverflow.com/questions/tagged/salesforce):  Post your questions with right tags like apex, visualforce and salesforce to get a quick response.
- * [__StackExchange__ ](http://salesforce.stackexchange.com/): Salesforce Stack Exchange is a question and answer site for Salesforce administrators, implementation experts, developers and anybody in-between. It's 100% free, no registration required. 
-### Official Salesforce Twitter Accounts [<img src="https://g.twimg.com/Twitter_logo_blue.png" align="right" width="60">](https://twitter.com/)
-
-
- * [Salesforce Developers](https://twitter.com/SalesforceDevs)
- * [Salesforce Docs](https://twitter.com/salesforcedocs)
- * [Salesforce Stack Exchange](https://twitter.com/StackSalesforce)
- * [Salesforce Service Cloud](https://twitter.com/ServiceCloud)
- * [Salesforce ForceDotComLabs](https://twitter.com/ForceDotComLabs)
- * [Salesforce SalesforceLive](https://twitter.com/SalesforceLive)
- * [Salesforce Engineering](https://twitter.com/SalesforceEng)
- * [Salesforce UX](https://twitter.com/SalesforceUX)
- * [Salesforce PartnerForce](https://twitter.com/partnerforce) 
- 
-### Official Salesforce Facebook Accounts [<img src="http://www.seeklogo.net/wp-content/uploads/2013/11/facebook-flat-vector-logo.png" align="right" width="60">](https://www.facebook.com/salesforce)
-
-### Official YouTube Accounts [<img src="http://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png" align="right" height="140" width="160">](https://www.youtube.com/user/salesforce)
-
-
 ### IDE
 * [Force.com IDE](https://developer.salesforce.com/page/Force.com_IDE) - Based on Eclipse Platform, supported and packaged by Salesforce.com
 * [Mavensmate for Sublime & Atom](http://mavensmate.com/) - Widely popular, 3rd party plugin package for Sublime Text and Atom editors
 * [BrainEngine] (http://www.brainengine.net/) - Premier IDE for Force.com Development, based on Visual Studio.
 * [ASIDE.IO] (https://www.aside.io) - Online Editor, fast and connects to any Salesforce org quickly.
-
 
 ### Open Source Projects Repositories from Salesforce 
 [<img src="https://avatars0.githubusercontent.com/u/464563?v=3&s=120" align="right" width="120">](https://github.com/forcedotcom)
@@ -101,7 +77,6 @@ Mobilize your Salesforce data and build native, cross-platform apps from a singl
 VizApps Pack : [Get Started](http://www.viziapps.com/learn-more/create-custom-mobile-apps-with-salesforce-data) | [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/viziapps_web_logo_2.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
 Create mobile apps with device feature-driven workflow using your standard or custom objects with Mobile Pack for ViziApps. Combine flexible UX design with Salesforce data into your app’s workflow without coding, then publish to the Apple App Store, Google Play, or directly to your enterprise users.
 
-
 ### Browser extensions for Salesforce
 ## Toggle it &nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png"  >](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)
 
@@ -114,6 +89,28 @@ To debug javascript on visualforce page in Salesforce.com, quite often user have
 This extension manages your salesforce.com login information and lets you quickly login. Most of the Force.com developers have multiple accounts, and they are tired of entering username and password every time they move from an account to the other
 
 [<img src="http://i.imgur.com/RKPXP7l.png" align="center" width="400">](https://chrome.google.com/webstore/detail/toggle-it-by-oyecode/cjpcmpioceijmelkgknddeiljogoakbl?hl=en)
+
+## Troubleshooting and queries
+ * [__Force.com Discussion boards__](http://boards.developerforce.com/sforce/?category.id=developers) : Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here].
+ * [__Tweet__](https://twitter.com/hashtag/askforce): Force.com community is pretty active on Twitter, tweet your question with hash #askforce
+ * [__StackOverFlow__ ](http://stackoverflow.com/questions/tagged/salesforce):  Post your questions with right tags like apex, visualforce and salesforce to get a quick response.
+ * [__StackExchange__ ](http://salesforce.stackexchange.com/): Salesforce Stack Exchange is a question and answer site for Salesforce administrators, implementation experts, developers and anybody in-between. It's 100% free, no registration required. 
+### Official Salesforce Twitter Accounts [<img src="https://g.twimg.com/Twitter_logo_blue.png" align="right" width="60">](https://twitter.com/)
+
+
+ * [Salesforce Developers](https://twitter.com/SalesforceDevs)
+ * [Salesforce Docs](https://twitter.com/salesforcedocs)
+ * [Salesforce Stack Exchange](https://twitter.com/StackSalesforce)
+ * [Salesforce Service Cloud](https://twitter.com/ServiceCloud)
+ * [Salesforce ForceDotComLabs](https://twitter.com/ForceDotComLabs)
+ * [Salesforce SalesforceLive](https://twitter.com/SalesforceLive)
+ * [Salesforce Engineering](https://twitter.com/SalesforceEng)
+ * [Salesforce UX](https://twitter.com/SalesforceUX)
+ * [Salesforce PartnerForce](https://twitter.com/partnerforce) 
+ 
+### Official Salesforce Facebook Accounts [<img src="http://www.seeklogo.net/wp-content/uploads/2013/11/facebook-flat-vector-logo.png" align="right" width="60">](https://www.facebook.com/salesforce)
+
+### Official YouTube Accounts [<img src="http://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png" align="right" height="140" width="160">](https://www.youtube.com/user/salesforce)
 
 ### Technical Blogs 
 * [Christophe Coenraets](http://coenraets.org/blog/) - Christophe Coenraets is a Developer Evangelist for Salesforce.com where he focuses on mobile application development, [Read More] (http://coenraets.org/blog/bio/)
