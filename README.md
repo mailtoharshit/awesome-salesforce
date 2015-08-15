@@ -50,6 +50,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
  * [Salesforce UX](https://twitter.com/SalesforceUX)
  * [Salesforce PartnerForce](https://twitter.com/partnerforce) 
  
+### Official Salesforce Facebook Accounts [<img src="http://www.seeklogo.net/wp-content/uploads/2013/11/facebook-flat-vector-logo.png" align="right" width="60">](https://www.facebook.com/salesforce)
 ### Open Source Projects Repositories from Salesforce 
 [<img src="https://avatars0.githubusercontent.com/u/464563?v=3&s=120" align="right" width="120">](https://github.com/forcedotcom)
 * [Salesforce Git Repo](https://github.com/forcedotcom) - Grab all latest salesforce open source projects here, you will find awesome projects, framework, libraries that salesforce and opened for the world 
