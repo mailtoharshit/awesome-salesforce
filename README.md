@@ -66,8 +66,8 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 ### Browser extensions for Salesforce
   Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
   
-###Salesforce Lighting Resources 
-[awesome-lighting](https://github.com/mailtoharshit/awesome-lighting/blob/master/README.md) - A curated list of delightful Salesforce Lighting Resources [<img src="http://developer.mobilecaddy.net/wp-content/uploads/2015/01/lightning.png" align="right" width="220">](https://github.com/forcedotcom) 
+###Salesforce Lighting Resources [<img src="http://developer.mobilecaddy.net/wp-content/uploads/2015/01/lightning.png" align="right" width="220">](https://github.com/forcedotcom) 
+[awesome-lighting](https://github.com/mailtoharshit/awesome-lighting/blob/master/README.md) - A curated list of delightful Salesforce Lighting Resources 
 
 ### Salesforce Mobile Packs for Javascript Libraries [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365281769/ypqq9g8at1y1yqoo8h6g.png" align="right" width="300">](https://developer.salesforce.com/mobile/services/mobile-packs) 
 
