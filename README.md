@@ -132,6 +132,11 @@ Create mobile apps with device feature-driven workflow using your standard or cu
 * [Abhinav Gupta](http://www.tgerm.com/)- Force.com MVP & Architect - Passionate about S1 & Javascript, Architect by Profession and now owner of his company focusing on salesforce Consulting [Read More] (https://plus.google.com/+AbhinavGuptaIn/posts) 
 * [Jitendra Zaa](http://www.jitendrazaa.com/blog//)- 7 Salesforce Certificates, MVP and Technical Architect working on platform since 2008 [Read More] (http://jitendrazaa.com/) 
 
+### Developer Utilities
+* [Lightning Namespacer](https://bootstrap-namespacer.herokuapp.com/) - Add a custom namespace to your CSS files with a sigle click (for Lightning and Visual Force use)
+
+* [GitHub Salesforce Deploy Tool](https://githubsfdeploy.herokuapp.com/) - Automagically deploy a GitHub repository to a Salesforce ORG and add a <img src="https://githubsfdeploy.herokuapp.com/resources/img/deploy.png" > button to your README.md files
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) first.
