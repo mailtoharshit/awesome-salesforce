@@ -116,7 +116,7 @@ This extension manages your salesforce.com login information and lets you quickl
 ### Developer Utilities
 * [Lightning Namespacer](https://bootstrap-namespacer.herokuapp.com/) - Add a custom namespace to your CSS files with a sigle click (for Lightning and Visual Force use)
 
-* [GitHub Salesforce Deploy Tool](https://githubsfdeploy.herokuapp.com/) - Automagically deploy a GitHub repository to a Salesforce ORG and add a [<img src="https://githubsfdeploy.herokuapp.com/resources/img/deploy.png" >] button to your README.md files
+* [GitHub Salesforce Deploy Tool](https://githubsfdeploy.herokuapp.com/) - Automagically deploy a GitHub repository to a Salesforce ORG and add a <img src="https://githubsfdeploy.herokuapp.com/resources/img/deploy.png" > button to your README.md files
 
 ## Contribute
 
