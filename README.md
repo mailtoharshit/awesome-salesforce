@@ -20,7 +20,20 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 ## Table of Contents  
 * [Awesome Salesforce](#awesome-salesforce--)
   * [Salesforce Developer Free Edition Signup](#salesforce-developer-free-edition-signup)
-  * [Learning Salesforce Platform](#learning-salesforce-platform)
+  * [Resource to Learn Salesforce Platform](#learning-salesforce-platform)
+  * [IDE](#ide)
+  * [Developer Utilities/Tools for Salesforce](#browser-extensions-for-salesforce)
+  * [Browser Extension for Salesforce](#browser-extensions-for-salesforce)
+  * [Open Source Github Project from Salesforce](#open-source-projects-repositories-from-salesforce)
+  * [Mobile Development with Salesforce](#mobile-development-with-salesforce)
+    * [Mobile SDK](#mobile-sdk)
+    * [Mobile Packs](#salesforce-mobile-packs-with-javascript-libraries-)
+  * [TroubleShotting and Developers Support](#troubleshooting-and-queries)
+  * [Salesforce Certificaiton Program](#salesforce-certification-program)
+  * [Salesforce University](#salesforce-university)
+  * [Salesforce Technical Blogs](#technical-blogs)
+  * [Contribute to Project Awesome-Salesforce](#contribute)
+  * [How to create pull request and report bug](#bugreport-pullrequest)
   
 ### Salesforce Developer Free Edition Signup
 * [Signup for Free Developer Account](https://developer.salesforce.com/signup) - Signup for Free Developer Account.
