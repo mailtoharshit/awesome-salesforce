@@ -28,7 +28,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Mobile Development with Salesforce](#mobile-development-with-salesforce)
     * [Mobile SDK](#mobile-sdk)
     * [Mobile Packs](#salesforce-mobile-packs-with-javascript-libraries-)
-  * [TroubleShotting and Developers Support](#troubleshooting-and-queries)
+  * [TroubleShooting and Developers Support](#troubleshooting-and-queries)
   * [Salesforce Certificaiton Program](#salesforce-certification-program)
   * [Salesforce University](#salesforce-university)
   * [Salesforce Technical Blogs](#technical-blogs)
