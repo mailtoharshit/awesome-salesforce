@@ -64,9 +64,9 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Salesforce Mobile UI - Polymer Elements for Salesforce] (https://github.com/ForceDotComLabs/mobile-ui-elements) - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets
 
 
-### Mobile Development with Salesforce
+## Mobile Development with Salesforce
 
-## Mobile SDK
+### Mobile SDK
 * [Salesfoce MobileSDK for iOS](https://github.com/forcedotcom/SalesforceMobileSDK-iOS)-If you'd like to work with the source code of the SDK itself, you've come to the right place! You can browse sample app source code and debug down through the layers to get a feel for how everything works under the covers. 
 
 * [Salesfoce MobileSDK for Windows](https://github.com/forcedotcom/SalesforceMobileSDK-Windows)-Build the project normally in Visual Studio; everything should build fine. If you wish to create a new project and not use the NuGet versions of the core libraries, simply create a new project with the template, remove the NuGet reference and add references to Salesforce.SDK.Core, Salesforce.SDK.Store (for windows projects) or Salesforce.SDK.Phone for phone projects.
