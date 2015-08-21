@@ -48,7 +48,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 ### Browser extensions for Salesforce
   Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
 
-#Packages and Libraries supporting salesforce
+### Packages and Libraries supporting salesforce
 ### Libraries 
 * [Apex mocks](https://githubsfdeploy.herokuapp.com/) - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito  
 <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks">
@@ -76,8 +76,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Apex Core HttpCallout](https://github.com/financialforcedev/apex-mdapi)-Apex HTTP Callout Framework. 
 <br/>
 This **Core** library has been extended by five libraries [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint), [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive), [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror), [Google Sheets](https://github.com/financialforcedev/ffhttp-googlesheets) and [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox).  
-
-  ###Key Features of this library
+ <b>Key Features of this library</b>
   + Framework for HTTP callouts.
   + JSON serialization and deserialization base classes.
   + OAuth Client - extends the base AbstractClient to provide the callouts required for OAuth authentication.
