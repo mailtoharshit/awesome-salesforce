@@ -47,7 +47,51 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 ### Browser extensions for Salesforce
   Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
-  
+
+#Packages and Libraries supporting salesforce
+### Libraries 
+* [Apex mocks](https://githubsfdeploy.herokuapp.com/) - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito  
+<a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+</a> 
+
+* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common)- Common Apex Library supporting Apex Enterprise Patterns and much more!
+**Dependencies:** Must deploy [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks) before deploying this library.Also see [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/><a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+</a>
+* [Apex Commons Sample Code](https://github.com/financialforcedev/fflib-apex-common-samplecode)- Samples application illustrating the Apex Enterprise Patterns library
+**Dependencies:** Must deploy [Apex Common ](https://github.com/financialforcedev/fflib-apex-common) before deploying this library<br/>
+<a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common-samplecode">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+</a>
+* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi)-Apex Wrapper for the Salesforce Metadata API     <br/>
+<a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+</a>
+
+* [Apex Core HttpCallout](https://github.com/financialforcedev/apex-mdapi)-Apex HTTP Callout Framework. 
+<br/>
+This **Core** library has been extended by five libraries [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint), [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive), [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror), [Google Sheets](https://github.com/financialforcedev/ffhttp-googlesheets) and [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox).  
+
+  ###Key Features of this library
+  + Framework for HTTP callouts.
+  + JSON serialization and deserialization base classes.
+  + OAuth Client - extends the base AbstractClient to provide the callouts required for OAuth authentication.
+  <br/>
+<a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core">
+    <img alt="Deploy to Salesforce"
+        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+</a>
+
+
+
+* [Polyforce](https://github.com/mailtoharshit/polyforce) - PolyForce is the project started as an idea with a motive create polymer applications/components that derive data from Salesforce, The idea create a robust set of polymer components that can mutually be shared with each other and on the other hand provide a working sample for developers to learn and get inspired to built more components <br/>
+[![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://na17.salesforce.com/packaging/installPackage.apexp?p0=04to00000003EDJ)
+
 
 ### Developer Utilities
 
