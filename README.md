@@ -49,6 +49,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) - Based on Eclipse Platform, supported and packaged by Salesforce.com
 * [Mavensmate Plugin for Sublime](https://mavensmate.com/Plugins/Sublime_Text/Installation) - Widely popular, 3rd party plugin package for Sublime Text Editor
 * [Atom Plugin](https://github.com/joeferraro/MavensMate-Atom)- MavensMate plugin for building Salesforce.com/Force.com/Salesforce1 applications inside GitHub's Atom text editor
+* [ApexMate](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate
 
 ### Browser extensions for Salesforce
   Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
@@ -96,6 +97,8 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 * [Polyforce](https://github.com/mailtoharshit/polyforce) - PolyForce is the project started as an idea with a motive create polymer applications/components that derive data from Salesforce, The idea create a robust set of polymer components that can mutually be shared with each other and on the other hand provide a working sample for developers to learn and get inspired to built more components <br/>
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://na17.salesforce.com/packaging/installPackage.apexp?p0=04to00000003EDJ)
 
+*[Salesforce to Github ](https://github.com/SalesforceFoundation/sfdo-github) - Github API client in Apex for Force.com
+*[Apex UML Digram Maker](https://github.com/afawcett/apex-umlcanvas) - Create UML diagrams from Apex code using the Tooling API
 
 ### Developer Utilities
 
