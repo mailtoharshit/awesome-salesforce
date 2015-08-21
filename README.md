@@ -68,6 +68,13 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Salesforce Mobile UI - Polymer Elements for Salesforce] (https://github.com/ForceDotComLabs/mobile-ui-elements) - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets
 
 
+## Salesforce Lighting 
+* [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework
+
+## Salesforce Browser Extensions 
+* [Awesome Salesforce Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce): Collection of Awesome Browser Extensions for Salesforce
+
+
 ## Mobile Development with Salesforce
 
 ### Mobile SDK
