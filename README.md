@@ -45,6 +45,11 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [BrainEngine] (http://www.brainengine.net/) - Premier IDE for Force.com Development, based on Visual Studio.
 * [ASIDE.IO] (https://www.aside.io) - Online Editor, fast and connects to any Salesforce org quickly.
 
+### Plugins for Salesforce 
+* [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) - Based on Eclipse Platform, supported and packaged by Salesforce.com
+* [Mavensmate Plugin for Sublime](https://mavensmate.com/Plugins/Sublime_Text/Installation) - Widely popular, 3rd party plugin package for Sublime Text Editor
+* [Atom Plugin](https://github.com/joeferraro/MavensMate-Atom)- MavensMate plugin for building Salesforce.com/Force.com/Salesforce1 applications inside GitHub's Atom text editor
+
 ### Browser extensions for Salesforce
   Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
 
