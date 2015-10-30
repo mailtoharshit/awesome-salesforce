@@ -51,6 +51,8 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Mavensmate for Sublime & Atom](http://mavensmate.com/) - Widely popular, 3rd party plugin package for Sublime Text and Atom editors
 * [BrainEngine] (http://www.brainengine.net/) - Premier IDE for Force.com Development, based on Visual Studio.
 * [ASIDE.IO] (https://www.aside.io) - Online Editor, fast and connects to any Salesforce org quickly.
+* [WelkinSuite for Windows] (https://www.welkinsuite.com) - Desktop Editor for force.com application, free for use, pay for support.
+* [C9.IO] (https://get.c9.io/salesforce) - Online Editor, connects to any Salesforce org quickly.
 
 ### Plugins for Salesforce 
 * [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) - Based on Eclipse Platform, supported and packaged by Salesforce.com
