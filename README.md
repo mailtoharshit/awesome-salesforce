@@ -16,6 +16,12 @@ Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/s
 ## What makes for an awesome list?
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
 
+  Read Related Awesome Pages : 
+   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting)
+   * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles)
+   * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
+   * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku)
+  
 
 ## Table of Contents  
 * [Awesome Salesforce](#awesome-salesforce--)
@@ -37,12 +43,6 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [How to create pull request and report bug](#bugreport-pullrequest)
 
 
-  Read Related Awesome Pages : 
-   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting)
-   * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles)
-   * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
-   * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku)
-  
 ### Salesforce Developer Free Edition Signup
 * [Signup for Free Developer Account](https://developer.salesforce.com/signup) - Signup for Free Developer Account.
 
