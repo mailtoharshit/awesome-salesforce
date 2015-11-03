@@ -88,7 +88,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
-* [Apex Core HttpCallout](https://github.com/financialforcedev/apex-mdapi)-Apex HTTP Callout Framework. 
+* [Apex Core HttpCallout](https://github.com/financialforcedev/ffhttp-core)-Apex HTTP Callout Framework. 
 <br/>
 This **Core** library has been extended by five libraries [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint), [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive), [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror), [Google Sheets](https://github.com/financialforcedev/ffhttp-googlesheets) and [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox).  
  <b>Key Features of this library</b>
