@@ -3,7 +3,7 @@
 
 [![Join the chat at https://gitter.im/mailtoharshit/awesome-salesforce](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mailtoharshit/awesome-salesforce?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[<img src="https://login.salesforce.com/img/logo190.png" align="right" width="300">](http://login.salesforce.com)
+[<img src="https://login.salesforce.com/img/logo190.png" align="right" width="300">](https://login.salesforce.com/)
 
 > Useful resources for creating apps with [Salesforce](http://login.salesforce.com)
 
@@ -51,8 +51,8 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Mavensmate for Sublime & Atom](http://mavensmate.com/) - Widely popular, 3rd party plugin package for Sublime Text and Atom editors
 * [BrainEngine] (http://www.brainengine.net/) - Premier IDE for Force.com Development, based on Visual Studio.
 * [ASIDE.IO] (https://www.aside.io) - Online Editor, fast and connects to any Salesforce org quickly.
-* [WelkinSuite for Windows] (https://www.welkinsuite.com) - Desktop Editor for force.com application, free for use, pay for support.
-* [C9.IO] (https://get.c9.io/salesforce) - Online Editor, connects to any Salesforce org quickly.
+* [WelkinSuite for Windows] (https://welkinsuite.com/) - Desktop Editor for force.com application, free for use, pay for support.
+* [C9.IO] (https://get.c9.io/salesforce/) - Online Editor, connects to any Salesforce org quickly.
 
 ### Plugins for Salesforce 
 * [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) - Based on Eclipse Platform, supported and packaged by Salesforce.com
@@ -126,7 +126,7 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 [<img src="https://avatars0.githubusercontent.com/u/464563?v=3&s=120" align="right" width="120">](https://github.com/forcedotcom)
 * [Salesforce Git Repo](https://github.com/forcedotcom) - Grab all latest salesforce open source projects here, you will find awesome projects, framework, libraries that salesforce and opened for the world 
 * [ForcedotCom Labs](https://github.com/ForceDotComLabs) - Checkout open source and experimental projects from Salesforce Team. Get an early access to features that can qualify in feature and contribute your ideas
-* [Salesforce Mobile UI - Polymer Elements for Salesforce] (https://github.com/ForceDotComLabs/mobile-ui-elements) - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets
+* [Salesforce Mobile UI - Polymer Elements for Salesforce] (https://github.com/forcedotcom/mobile-ui-elements) - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets
 
 
 ## Salesforce Lighting 
@@ -176,7 +176,7 @@ Build sophisticated cross-platform apps that access Salesforce Platform data usi
 Appcelerator Pack : [Get Started](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)  |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/appcelerator4.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
 Mobilize your Salesforce data and build native, cross-platform apps from a single JavaScript codebase with the Mobile Pack for Appcelerator®. With an Eclipse-based IDE and MVC framework, developers can build reusable components to deliver highly effective apps leveraging their Salesforce platform.
 
-VizApps Pack : [Get Started](http://www.viziapps.com/learn-more/create-custom-mobile-apps-with-salesforce-data) | [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/viziapps_web_logo_2.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
+VizApps Pack : [Get Started](http://www.viziapps.com/learn-more/create-custom-mobile-apps-with-salesforce-data/) | [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/viziapps_web_logo_2.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
 Create mobile apps with device feature-driven workflow using your standard or custom objects with Mobile Pack for ViziApps. Combine flexible UX design with Salesforce data into your app’s workflow without coding, then publish to the Apple App Store, Google Play, or directly to your enterprise users.
 
 ## Troubleshooting and queries
@@ -230,7 +230,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/mai
 ## BugReport-PullRequest
 1. Add your link as per the top-level Category page within the topic sub-section(s), in _alphabetical order_, with notes (if any) in the markdown files.
 2. For broken links or outdated information, submit a bug report (BR), or make the necessary changes and submit a PR. Both are welcome. Please submit separate PR's for each link or change added.
-3. For those unable to use git, create a github account, then fork this` repo on the user interface. Then edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
+3. For those unable to use git, create a github account, then fork this` repo on the user interface. Then edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository/), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository/).
 
 
 ## License
