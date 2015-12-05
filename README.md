@@ -183,7 +183,10 @@ Create mobile apps with device feature-driven workflow using your standard or cu
  * [__Force.com Discussion boards__](http://boards.developerforce.com/sforce/?category.id=developers) : Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here].
  * [__Tweet__](https://twitter.com/hashtag/askforce): Force.com community is pretty active on Twitter, tweet your question with hash #askforce
  * [__StackOverFlow__ ](http://stackoverflow.com/questions/tagged/salesforce):  Post your questions with right tags like apex, visualforce and salesforce to get a quick response.
- * [__StackExchange__ ](http://salesforce.stackexchange.com/): Salesforce Stack Exchange is a question and answer site for Salesforce administrators, implementation experts, developers and anybody in-between. It's 100% free, no registration required. 
+ * [__StackExchange__ ](http://salesforce.stackexchange.com/): Salesforce Stack Exchange is a question and answer site for Salesforce administrators, implementation experts, developers and anybody in-between. It's 100% free, no registration required.
+ * [__salesforce-developer.ru__](https://salesforce-developer.ru/): Russian-speaking Salesforce community: there are developer's and admin's forum and blog.
+
+
 ### Official Salesforce Twitter Accounts [<img src="https://g.twimg.com/Twitter_logo_blue.png" align="right" width="60">](https://twitter.com/)
 
  * [Salesforce Developers](https://twitter.com/SalesforceDevs)
@@ -199,6 +202,7 @@ Create mobile apps with device feature-driven workflow using your standard or cu
 ### Learning Salesforce Platform 
 * [Trailhead](https://developer.salesforce.com/trailhead) - Trailhead teaches you how to build cloud apps for free with fun, interactive tutorials. Stand out by learning in-demand Salesforce development skills.
 * [Udemy Course](https://www.udemy.com/salesforce-training/) - Hands on detailed and complete Instruction for both Admin and Developer part of Salesforce CRM.
+* [Udacity Course](https://www.udacity.com/course/intro-to-point-click-app-development--ud162) - This class teaches you how to build powerful web and mobile apps and host them in the cloud, without writing a line of code.
 
 ### Salesforce Certification Program
 [<img src="http://www.runconsultants.com/wp-content/uploads/2015/04/salesforce-certified-e1429111675579.png" align="right" width="100">](http://certification.salesforce.com/)
