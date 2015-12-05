@@ -17,7 +17,7 @@ Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/s
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
 
   Read Related Awesome Pages : 
-   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting)
+   * [Awesome Lightning](https://github.com/mailtoharshit/awesome-lighting)
    * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles)
    * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
    * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku)
@@ -31,7 +31,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Developer Utilities/Tools for Salesforce](#browser-extensions-for-salesforce)
   * [Salesforce Browser Extensions](#browser-extensions-for-salesforce)
   * [Open Source Github Project from Salesforce](#open-source-projects-repositories-from-salesforce)
-  * [Salesforce Lighting Resources](#salesforce-lighting)
+  * [Salesforce Lightning Resources](#salesforce-lightning)
   * [Mobile Development with Salesforce](#mobile-development-with-salesforce)
     * [Mobile SDK](#mobile-sdk)
     * [Mobile Packs](#salesforce-mobile-packs-with-javascript-libraries-)
@@ -129,8 +129,8 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 * [Salesforce Mobile UI - Polymer Elements for Salesforce] (https://github.com/ForceDotComLabs/mobile-ui-elements) - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets
 
 
-## Salesforce Lighting 
-* [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework
+## Salesforce Lightning 
+* [Awesome Lightning](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework
 
 ## Salesforce Browser Extensions 
 * [Awesome Salesforce Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce): Collection of Awesome Browser Extensions for Salesforce
