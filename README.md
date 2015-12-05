@@ -127,14 +127,21 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 * [Salesforce Git Repo](https://github.com/forcedotcom) - Grab all latest salesforce open source projects here, you will find awesome projects, framework, libraries that salesforce and opened for the world 
 * [ForcedotCom Labs](https://github.com/ForceDotComLabs) - Checkout open source and experimental projects from Salesforce Team. Get an early access to features that can qualify in feature and contribute your ideas
 * [Salesforce Mobile UI - Polymer Elements for Salesforce] (https://github.com/forcedotcom/mobile-ui-elements) - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets
+* [ForceServer](https://github.com/ccoenraets/force-server) - It supportes a proxy and web server, ForceServer is a simple development server aimed at providing a simple and integrated developer experience when building applications that use Salesforce OAuth and REST services.
+
+
 
 ## Javascript Libraries for Salesforce
 * [JSForce - JSforce (f.k.a. Node-Salesforce) is a isomorphic JavaScript Library utilizing Salesforce's API: It works both in browser and with Node.js.] (https://jsforce.github.io/) - it capsulates the access to various APIs provided by Salesforce in asynchronous JavaScript function calls.Unlike other Salesforce API libraries, it is intended to give integrated interface both server-side and client-side apps, so you don't have to rewrite similar logics with different libraries only for running in different environment.Additionally, it has useful command line interface (CLI) which gives interactive console (REPL), so you can learn the usage without hassle.
 * [ForceSniffer - Device Detection Library for Salesforce] (https://github.com/mailtoharshit/ForceSniffer.Js) - Simplified Library that detect Mobile Devices, Salesforce1 App and other Saleforce Context.
+* [ForceJS](https://github.com/ccoenraets/forcejs/tree/es6) - With ES6 support now, this micro library designed to use the Salesforce REST APIs in JavaScript Apps
+
 
 ## UI Libraries for Salesforce
 * [Salesforce Lightning Design System - Office UI library based on Lightning Experience Design Language] (http://www.lightningdesignsystem.com/) - With the Lightning Design System you can build custom applications with a look and feel that is consistent with Salesforce core features — without reverse engineering our styles! Simply download our platform-agnostic CSS framework and get started today.
-* [Feather - Google Material Design Mockup for Salesforce] (https://github.com/mailtoharshit/Feather/blob/master/README.md) - Library to showcase, usage of Google MDL on Salesforce
+* [Feather - Google Material Design Mockup for Salesforce] (https://github.com/mailtoharshit/Feather/blob/master/README.md) - Library to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesforce
+* [React Components for Saleforce Lighting Design System](http://stomita.github.io/react-lightning-design-system/) - Salesforce Lightning Design System components built with React
+* [Salesforce ReactJS SPA Starter](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js
 
 
 ## Salesforce Lighting 
@@ -186,6 +193,8 @@ Mobilize your Salesforce data and build native, cross-platform apps from a singl
 
 VizApps Pack : [Get Started](http://www.viziapps.com/learn-more/create-custom-mobile-apps-with-salesforce-data/) | [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/viziapps_web_logo_2.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
 Create mobile apps with device feature-driven workflow using your standard or custom objects with Mobile Pack for ViziApps. Combine flexible UX design with Salesforce data into your app’s workflow without coding, then publish to the Apple App Store, Google Play, or directly to your enterprise users.
+
+[Ionic Starter Pack for Saleforce](https://github.com/driftyco/ionic-starter-salesforce) - A starter project for Ionic and Salesforce
 
 ## Troubleshooting and queries
  * [__Force.com Discussion boards__](http://boards.developerforce.com/sforce/?category.id=developers) : Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here].
