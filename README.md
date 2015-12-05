@@ -17,7 +17,7 @@ Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/s
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
 
   Read Related Awesome Pages : 
-   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting)
+   * [Awesome Lightning](https://github.com/mailtoharshit/awesome-lighting)
    * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles)
    * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
    * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku)
@@ -31,7 +31,8 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Developer Utilities/Tools for Salesforce](#browser-extensions-for-salesforce)
   * [Salesforce Browser Extensions](#browser-extensions-for-salesforce)
   * [Open Source Github Project from Salesforce](#open-source-projects-repositories-from-salesforce)
-  * [Salesforce Lighting Resources](#salesforce-lighting)
+  * [ETL Tools](#etl-tools)
+  * [Salesforce Lightning Resources](#salesforce-lightning)
   * [Mobile Development with Salesforce](#mobile-development-with-salesforce)
     * [Mobile SDK](#mobile-sdk)
     * [Mobile Packs](#salesforce-mobile-packs-with-javascript-libraries-)
@@ -143,9 +144,19 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 * [React Components for Saleforce Lighting Design System](http://stomita.github.io/react-lightning-design-system/) - Salesforce Lightning Design System components built with React
 * [Salesforce ReactJS SPA Starter](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js
 
+### ETL Tools
 
-## Salesforce Lighting 
-* [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework
+* [Data Loader](https://developer.salesforce.com/page/Data_Loader) - Is an easy to use graphical tool that helps you to get your data into Salesforce objects.
+* [SFXOrgData](https://www.sfapex.com/) - Copy data from your Production or Full Sandbox environment to Developer/Dev Pro sandboxes.
+* [DreamFactory Monarch](http://www.dreamfactory.com/force.com/monarch) - Migrate related sets of data between Orgs.
+* [Jitterbit](http://www.jitterbit.com/) - Commercial software integration product that facilitates transport between legacy, enterprise, and on-demand computing applications.
+* [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - The most popular open-source graphical ETL tool.
+* [Talend](https://www.talend.com/products/talend-open-studio) - An open source application for data integration job design with a graphical development environment.
+* ...
+* Some other solutions from [awesome-etl list](https://github.com/pawl/awesome-etl).
+
+## Salesforce Lightning 
+* [Awesome Lightning](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework
 
 ## Salesforce Browser Extensions 
 * [Awesome Salesforce Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce): Collection of Awesome Browser Extensions for Salesforce
