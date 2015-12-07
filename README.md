@@ -156,7 +156,6 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 * [Jitterbit](http://www.jitterbit.com/) - Commercial software integration product that facilitates transport between legacy, enterprise, and on-demand computing applications.
 * [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - The most popular open-source graphical ETL tool.
 * [Talend](https://www.talend.com/products/talend-open-studio) - An open source application for data integration job design with a graphical development environment.
-* ...
 * Some other solutions from [awesome-etl list](https://github.com/pawl/awesome-etl).
 
 
