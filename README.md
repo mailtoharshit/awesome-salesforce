@@ -31,7 +31,6 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Developer Utilities/Tools for Salesforce](#browser-extensions-for-salesforce)
   * [Salesforce Browser Extensions](#browser-extensions-for-salesforce)
   * [Open Source Github Project from Salesforce](#open-source-projects-repositories-from-salesforce)
-  * [ETL Tools](#etl-tools) 
   * [Salesforce Lighting Resources](#salesforce-lighting)
   * [Mobile Development with Salesforce](#mobile-development-with-salesforce)
     * [Mobile SDK](#mobile-sdk)
@@ -134,16 +133,6 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 * [ForceServer](https://github.com/ccoenraets/force-server) - It supportes a proxy and web server, ForceServer is a simple development server aimed at providing a simple and integrated developer experience when building applications that use Salesforce OAuth and REST services.
 
 
-### ETL Tools
-* [Data Loader](https://developer.salesforce.com/page/Data_Loader) - Is an easy to use graphical tool that helps you to get your data into Salesforce objects.
-* [SFXOrgData](https://www.sfapex.com/) - Copy data from your Production or Full Sandbox environment to Developer/Dev Pro sandboxes.
-* [DreamFactory Monarch](http://www.dreamfactory.com/force.com/monarch) - Migrate related sets of data between Orgs.
-* [Jitterbit](http://www.jitterbit.com/) - Commercial software integration product that facilitates transport between legacy, enterprise, and on-demand computing applications.
-* [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - The most popular open-source graphical ETL tool.
-* [Talend](https://www.talend.com/products/talend-open-studio) - An open source application for data integration job design with a graphical development environment.
-* ...
-* Some other solutions from [awesome-etl list](https://github.com/pawl/awesome-etl).
-
 
 ## Javascript Libraries for Salesforce
 * [JSForce - JSforce (f.k.a. Node-Salesforce) is a isomorphic JavaScript Library utilizing Salesforce's API: It works both in browser and with Node.js.] (https://jsforce.github.io/) - it capsulates the access to various APIs provided by Salesforce in asynchronous JavaScript function calls.Unlike other Salesforce API libraries, it is intended to give integrated interface both server-side and client-side apps, so you don't have to rewrite similar logics with different libraries only for running in different environment.Additionally, it has useful command line interface (CLI) which gives interactive console (REPL), so you can learn the usage without hassle.
@@ -156,6 +145,17 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 * [Feather - Google Material Design Mockup for Salesforce] (https://github.com/mailtoharshit/Feather/blob/master/README.md) - Library to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesforce
 * [React Components for Saleforce Lighting Design System](http://stomita.github.io/react-lightning-design-system/) - Salesforce Lightning Design System components built with React
 * [Salesforce ReactJS SPA Starter](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js
+
+
+### ETL Tools
+* [Data Loader](https://developer.salesforce.com/page/Data_Loader) - Is an easy to use graphical tool that helps you to get your data into Salesforce objects.
+* [SFXOrgData](https://www.sfapex.com/) - Copy data from your Production or Full Sandbox environment to Developer/Dev Pro sandboxes.
+* [DreamFactory Monarch](http://www.dreamfactory.com/force.com/monarch) - Migrate related sets of data between Orgs.
+* [Jitterbit](http://www.jitterbit.com/) - Commercial software integration product that facilitates transport between legacy, enterprise, and on-demand computing applications.
+* [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - The most popular open-source graphical ETL tool.
+* [Talend](https://www.talend.com/products/talend-open-studio) - An open source application for data integration job design with a graphical development environment.
+* ...
+* Some other solutions from [awesome-etl list](https://github.com/pawl/awesome-etl).
 
 
 ## Salesforce Lighting
