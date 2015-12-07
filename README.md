@@ -124,6 +124,8 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 
 * [Workbench](https://github.com/ryanbrainard/forceworkbench)- Workbench is a powerful, web-based suite of tools designed for administrators and developers to interact with Salesforce.com organizations via the Force.com APIs.
 
+* [SoqlXplorer](https://github.com/superfell/SoqlX)- Explore the object & field describes results, build & run SOQL queries, edit data, run apex code, it even do syntax highlighting on the query as you edit it along with a graphical schema explorer.
+
 
 ### Open Source Projects Repositories from Salesforce
 [<img src="https://avatars0.githubusercontent.com/u/464563?v=3&s=120" align="right" width="120">](https://github.com/forcedotcom)
