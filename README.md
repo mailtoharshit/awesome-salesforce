@@ -5,7 +5,7 @@
 
 [<img src="https://login.salesforce.com/img/logo190.png" align="right" width="300">](https://login.salesforce.com/)
 
-> Useful resources for creating apps with [Salesforce](http://login.salesforce.com)
+> Useful resources for creating apps with [Salesforce](https://login.salesforce.com/)
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome).*
 
@@ -182,10 +182,10 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 
 ## Salesforce Mobile Packs with Javascript Libraries [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365281769/ypqq9g8at1y1yqoo8h6g.png" align="right" width="300">](https://developer.salesforce.com/mobile/services/mobile-packs)
 
-Google Polymer Pack : [Try Designer](https://sfdc-designer.herokuapp.com/) | [Github Repo](https://github.com/ForceDotComLabs/mobile-ui-elements) | [Watch Designer Video](https://www.youtube.com/watch?v=67FjSemJ7uQ&feature=youtu.be) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/polymer.png" align="left" width="180">](https://github.com/ForceDotComLabs/mobile-ui-elements)
+Google Polymer Pack : [Try Designer](https://sfdc-designer.herokuapp.com/) | [Github Repo](https://github.com/forcedotcom/mobile-ui-elements) | [Watch Designer Video](https://www.youtube.com/watch?v=67FjSemJ7uQ&feature=youtu.be) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/polymer.png" align="left" width="180">](https://github.com/ForceDotComLabs/mobile-ui-elements)
 Build your Mobile App with a set of new HTML tags that ease the development of salesforce driven user interfaces. It's based on the Google’s Polymer framework and uses Web Components to provide fundamental building blocks for creating an Offline enabled application with Salesforce Mobile SDK
 
-AngularJS Pack : [Get Started](https://developer.salesforce.com/en/mobile/getting-started/html5/#angularjs) | [Github Repo](https://github.com/developerforce/MobilePack-AngularJS) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365443678/dsl4du0pi46hb28za8jz.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
+AngularJS Pack : [Get Started](https://developer.salesforce.com/mobile/getting-started/html5/#angularjs) | [Github Repo](https://github.com/developerforce/MobilePack-AngularJS) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365443678/dsl4du0pi46hb28za8jz.png" align="left" width="180">](https://developer.salesforce.com/mobile/getting-started/html5/#jquery)
 Design and build apps that separate UI, logic, and data using Mobile Pack for AngularJS. Google's AngularJS lets you reap the benefits of a Model-View-Control architecture in your JavaScript code and utilize advanced features like reusable components and dependency injection.
 
 
@@ -195,7 +195,7 @@ Quickly create mobile web and hybrid apps using the Mobile Pack for jQuery Mobil
 Backbone Pack : [Get Started](https://developer.salesforce.com/mobile/getting-started/html5/#backbone) | [Github Repo](https://github.com/developerforce/MobilePack-BackboneJS) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365443611/xh5arugajxlhquh6jesc.png" align="left" width="180">](https://developer.salesforce.com/mobile/getting-started/html5/#backbone)
 Add structure to your mobile web and hybrid applications with Mobile Pack for Backbone.js. Backbone.js is a JavaScript framework that provides models with key-value binding and custom events, collections with a rich API of enumerable functions, and views with declarative event handling.
 
-Knockout Pack : [Get Started](https://developer.salesforce.com/en/mobile/getting-started/html5/#knockout) | [Github Repo](https://github.com/developerforce/MobilePack-KnockoutJS) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1373054813/knockout.png.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#knockout))
+Knockout Pack : [Get Started](https://developer.salesforce.com/mobile/getting-started/html5/#knockout) | [Github Repo](https://github.com/developerforce/MobilePack-KnockoutJS) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1373054813/knockout.png.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#knockout))
 Get Mobile Pack for Knockout and create mobile apps with responsive design that updates dynamically. Knockout adds dependency tracking that refreshes your UI whenever your data changes, and lets you create new resusable custom behaviors.
 
 Appery.IO Pack : [Get Started](http://appery.io/salesforce/?utm_source=external&utm_medium=link&utm_campaign=ongoingPartnerLinks)[<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1373054840/appery.png.png" align="left" width="180">](http://appery.io/salesforce/?utm_source=external&utm_medium=link&utm_campaign=ongoingPartnerLinks)
@@ -261,7 +261,7 @@ Create mobile apps with device feature-driven workflow using your standard or cu
 * [Harshit Pandey -(Oyecode)](http://www.oyecode.com/) - Harshit Pandey is Principal Technical Architect Evangelist at Intuitive Surgical, previously Architect at Salesforce, tech lover and geek focusing on innovating by intergrating technologies with Salesforce [Read More] (https://about.me/harshit.pandey)
 * [Peter Knolle](http://peterknolle.com/) - Peter Knolle enjoys working with all kinds of different technologies. Certified Salesforce.com professional, and Force.com MVP. [Read More] (http://peterknolle.com/about/)  
 * [Abhinav Gupta](http://www.tgerm.com/)- Force.com MVP & Architect - Passionate about S1 & Javascript, Architect by Profession and now owner of his company focusing on salesforce Consulting [Read More] (https://plus.google.com/+AbhinavGuptaIn/posts)
-* [Jitendra Zaa](http://www.jitendrazaa.com/blog//)- 7 Salesforce Certificates, MVP and Technical Architect working on platform since 2008 [Read More] (http://jitendrazaa.com/)
+* [Jitendra Zaa](http://www.jitendrazaa.com/blog/)- 7 Salesforce Certificates, MVP and Technical Architect working on platform since 2008 [Read More] (http://jitendrazaa.com/)
 
 ## Contribute
 
