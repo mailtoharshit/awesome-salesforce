@@ -153,7 +153,7 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 * [Feather - Google Material Design Mockup for Salesforce] (https://github.com/mailtoharshit/Feather/blob/master/README.md) - Library to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesforce
 * [React Components for Saleforce Lighting Design System](http://stomita.github.io/react-lightning-design-system/) - Salesforce Lightning Design System components built with React
 * [Salesforce ReactJS SPA Starter](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)
-* [ForceSpinner](https://github.com/mailtoharshit/ForceSpinner) - Builder Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
+* [ForceSpinner](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
 
 
 ## ETL Tools
