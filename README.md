@@ -49,7 +49,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Signup for Free Developer Account](https://developer.salesforce.com/signup) - Signup for Free Developer Account.
 
 ### IDE
-[<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/ideicon.png" align="right" width="320">]
+<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/ideicon.png" align="right" width="220">
 
 * [Force.com IDE](https://developer.salesforce.com/page/Force.com_IDE) - Based on Eclipse Platform, supported and packaged by Salesforce.com
 * [Mavensmate for Sublime & Atom](http://mavensmate.com/) - Widely popular, 3rd party plugin package for Sublime Text and Atom editors
@@ -60,7 +60,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Illuminated Cloud] (http://www.illuminatedcloud.com/) - A powerful Force.com development tool hosted within JetBrains IntelliJ IDEA.
 
 ### Plugins for Salesforce
-[<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/forceplug.png" align="right" width="320">]
+<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/forceplug.png" align="right" width="220">
 * [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) - Based on Eclipse Platform, supported and packaged by Salesforce.com
 * [Mavensmate Plugin for Sublime](https://mavensmate.com/Plugins/Sublime_Text/Installation) - Widely popular, 3rd party plugin package for Sublime Text Editor
 * [Atom Plugin](https://github.com/joeferraro/MavensMate-Atom)- MavensMate plugin for building Salesforce.com/Force.com/Salesforce1 applications inside GitHub's Atom text editor
