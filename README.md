@@ -49,7 +49,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Signup for Free Developer Account](https://developer.salesforce.com/signup) - Signup for Free Developer Account.
 
 ### IDE
-<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/ideicon.png" align="right" width="220">
+<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/ideicon.png" align="right" width="120">
 
 * [Force.com IDE](https://developer.salesforce.com/page/Force.com_IDE) - Based on Eclipse Platform, supported and packaged by Salesforce.com
 * [Mavensmate for Sublime & Atom](http://mavensmate.com/) - Widely popular, 3rd party plugin package for Sublime Text and Atom editors
@@ -73,6 +73,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
 
 ### Packages and Libraries supporting salesforce
+<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/package.png" align="right" width="220">
 ### Libraries
 * [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito  
 <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks">
@@ -119,7 +120,7 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 * [Apex UML Digram Maker](https://github.com/afawcett/apex-umlcanvas) - Create UML diagrams from Apex code using the Tooling API <br/>
 
 ### Developer Utilities
-
+<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/utilities.png" align="right" width="220">
 * [Weave](http://mailtoharshit.github.io/Weave/) - Sublime Text Plugin to generate boilerplate Salesforce Code Templates  
 
 * [GitHub Salesforce Deploy Tool](https://githubsfdeploy.herokuapp.com/) - Automagically deploy a GitHub repository to a Salesforce ORG and add a <img src="https://githubsfdeploy.herokuapp.com/resources/img/deploy.png" > button to your README.md files
@@ -138,12 +139,13 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 
 * [SoqlXplorer](https://github.com/superfell/SoqlX)- SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
 
-### Git Utils for Salesforce
+### Git Ignore for Salesforce
+<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/open%20source.png" align="right" width="220">
 * [GitIgnore for Salesforce ](https://github.com/mailtoharshit/gitignore)- SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
 
 
 ### Open Source Projects Repositories from Salesforce
-[<img src="https://avatars0.githubusercontent.com/u/464563?v=3&s=120" align="right" width="120">](https://github.com/forcedotcom)
+<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/gitignore.png" align="right" width="220">
 * [Salesforce Git Repo](https://github.com/forcedotcom) - Grab all latest salesforce open source projects here, you will find awesome projects, framework, libraries that salesforce and opened for the world
 * [ForcedotCom Labs](https://github.com/ForceDotComLabs) - Checkout open source and experimental projects from Salesforce Team. Get an early access to features that can qualify in feature and contribute your ideas
 * [Salesforce Mobile UI - Polymer Elements for Salesforce] (https://github.com/forcedotcom/mobile-ui-elements) - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets
@@ -152,6 +154,7 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 
 
 ## Javascript Libraries for Salesforce
+<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/JavaScript.png" align="right" width="220">
 * [JSForce - JSforce (f.k.a. Node-Salesforce) is a isomorphic JavaScript Library utilizing Salesforce's API: It works both in browser and with Node.js.] (https://jsforce.github.io/) - it capsulates the access to various APIs provided by Salesforce in asynchronous JavaScript function calls.Unlike other Salesforce API libraries, it is intended to give integrated interface both server-side and client-side apps, so you don't have to rewrite similar logics with different libraries only for running in different environment.Additionally, it has useful command line interface (CLI) which gives interactive console (REPL), so you can learn the usage without hassle.
 * [ForceSniffer - Device Detection Library for Salesforce] (https://github.com/mailtoharshit/ForceSniffer.Js) - Simplified Library that detect Mobile Devices, Salesforce1 App and other Saleforce Context.
 * [ForceJS](https://github.com/ccoenraets/forcejs/tree/es6) - With ES6 support now, this micro library designed to use the Salesforce REST APIs in JavaScript Apps
@@ -162,7 +165,8 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 
 
 
-## UI Libraries for Salesforce
+## UX Libraries for Salesforce
+<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/UX.jpg" align="right" width="220">
 * [Salesforce Lightning Design System - Office UI library based on Lightning Experience Design Language] (http://www.lightningdesignsystem.com/) - With the Lightning Design System you can build custom applications with a look and feel that is consistent with Salesforce core features — without reverse engineering our styles! Simply download our platform-agnostic CSS framework and get started today.
 * [Feather - Google Material Design Mockup for Salesforce] (https://github.com/mailtoharshit/Feather/blob/master/README.md) - Library to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesforce
 * [React Components for Saleforce Lighting Design System](http://stomita.github.io/react-lightning-design-system/) - Salesforce Lightning Design System components built with React
