@@ -62,8 +62,9 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Mavensmate Plugin for Sublime](https://mavensmate.com/Plugins/Sublime_Text/Installation) - Widely popular, 3rd party plugin package for Sublime Text Editor
 * [Atom Plugin](https://github.com/joeferraro/MavensMate-Atom)- MavensMate plugin for building Salesforce.com/Force.com/Salesforce1 applications inside GitHub's Atom text editor
 * [ApexMate](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate.
-* [VimAwesome](http://vimawesome.com/plugin/vim-force-com)- VIM Plugin for force.com.
+* [VimAwesome](http://vimawesome.com/plugin/vim-force-com)- VIM Plugin for Force.com.
 * [Force.com CLI](https://force-cli.heroku.com/)- Command-line interface to Force.com.
+* [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com
 
 ### Browser extensions for Salesforce
   Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
