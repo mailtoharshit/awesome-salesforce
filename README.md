@@ -154,10 +154,11 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 
 
 ## Javascript Libraries for Salesforce
-<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/JavaScript.png" align="right" width="220">
+
 * [JSForce - JSforce (f.k.a. Node-Salesforce) is a isomorphic JavaScript Library utilizing Salesforce's API: It works both in browser and with Node.js.] (https://jsforce.github.io/) - it capsulates the access to various APIs provided by Salesforce in asynchronous JavaScript function calls.Unlike other Salesforce API libraries, it is intended to give integrated interface both server-side and client-side apps, so you don't have to rewrite similar logics with different libraries only for running in different environment.Additionally, it has useful command line interface (CLI) which gives interactive console (REPL), so you can learn the usage without hassle.
 * [ForceSniffer - Device Detection Library for Salesforce] (https://github.com/mailtoharshit/ForceSniffer.Js) - Simplified Library that detect Mobile Devices, Salesforce1 App and other Saleforce Context.
 * [ForceJS](https://github.com/ccoenraets/forcejs/tree/es6) - With ES6 support now, this micro library designed to use the Salesforce REST APIs in JavaScript Apps
+<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/JavaScript.png" align="right" width="220">
 * [nForce](https://github.com/kevinohara80/nforce) - nforce is a node.js salesforce REST API wrapper for force.com, database.com, and salesforce.com
 * [ngForce](https://github.com/noeticpenguin/ngForce) -A set of Angular.js modules that facilitate quick and sustainable Angular.js application development on the Force.com Platform.
 * [ForceTK](https://github.com/developerforce/Force.com-JavaScript-REST-Toolkit)- ForceTK - a minimal Force.com REST API for JavaScript apps
@@ -166,9 +167,10 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 
 
 ## UX Libraries for Salesforce
-<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/UX.jpg" align="right" width="220">
+
 * [Salesforce Lightning Design System - Office UI library based on Lightning Experience Design Language] (http://www.lightningdesignsystem.com/) - With the Lightning Design System you can build custom applications with a look and feel that is consistent with Salesforce core features — without reverse engineering our styles! Simply download our platform-agnostic CSS framework and get started today.
 * [Feather - Google Material Design Mockup for Salesforce] (https://github.com/mailtoharshit/Feather/blob/master/README.md) - Library to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesforce
+<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/UX.jpg" align="right" width="220">
 * [React Components for Saleforce Lighting Design System](http://stomita.github.io/react-lightning-design-system/) - Salesforce Lightning Design System components built with React
 * [Salesforce ReactJS SPA Starter](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)
 * [ForceSpinner](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
