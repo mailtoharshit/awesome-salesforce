@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/awesome-salesforce-logo.png" align="center" width="1200">
+<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/Awesome%20butterfly.png" align="center" width="1200">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -58,6 +58,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Illuminated Cloud] (http://www.illuminatedcloud.com/) - A powerful Force.com development tool hosted within JetBrains IntelliJ IDEA.
 
 ### Plugins for Salesforce
+[<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/forceplug.png" align="right" width="320">](https://github.com/forcedotcom)
 * [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) - Based on Eclipse Platform, supported and packaged by Salesforce.com
 * [Mavensmate Plugin for Sublime](https://mavensmate.com/Plugins/Sublime_Text/Installation) - Widely popular, 3rd party plugin package for Sublime Text Editor
 * [Atom Plugin](https://github.com/joeferraro/MavensMate-Atom)- MavensMate plugin for building Salesforce.com/Force.com/Salesforce1 applications inside GitHub's Atom text editor
