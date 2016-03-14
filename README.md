@@ -135,6 +135,9 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 
 * [SoqlXplorer](https://github.com/superfell/SoqlX)- SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
 
+### Git Utils for Salesforce
+* [GitIgnore for Salesforce ](https://github.com/mailtoharshit/gitignore)- SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
+
 
 ### Open Source Projects Repositories from Salesforce
 [<img src="https://avatars0.githubusercontent.com/u/464563?v=3&s=120" align="right" width="120">](https://github.com/forcedotcom)
