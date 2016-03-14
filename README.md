@@ -169,8 +169,9 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 ## UX Libraries for Salesforce
 
 * [Salesforce Lightning Design System - Office UI library based on Lightning Experience Design Language] (http://www.lightningdesignsystem.com/) - With the Lightning Design System you can build custom applications with a look and feel that is consistent with Salesforce core features — without reverse engineering our styles! Simply download our platform-agnostic CSS framework and get started today.
-* [Feather - Google Material Design Mockup for Salesforce] (https://github.com/mailtoharshit/Feather/blob/master/README.md) - Library to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesforce
+to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesforce
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/UX.jpg" align="right" width="220">
+* [Feather - Google Material Design Mockup for Salesforce] (https://github.com/mailtoharshit/Feather/blob/master/README.md) - Library 
 * [React Components for Saleforce Lighting Design System](http://stomita.github.io/react-lightning-design-system/) - Salesforce Lightning Design System components built with React
 * [Salesforce ReactJS SPA Starter](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)
 * [ForceSpinner](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
