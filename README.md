@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/Awesome%20butterfly.png" align="center" width="1200">
+<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/Screen%20Shot%202016-07-27%20at%203.34.27%20PM.png" align="center" width="1200">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
