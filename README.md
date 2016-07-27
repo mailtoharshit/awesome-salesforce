@@ -268,10 +268,18 @@ Create mobile apps with device feature-driven workflow using your standard or cu
  * [Salesforce PartnerForce](https://twitter.com/partnerforce)
 
 ### Learning Salesforce Platform
+
+## Online Resources
 * [Trailhead](https://developer.salesforce.com/trailhead) - Trailhead teaches you how to build cloud apps for free with fun, interactive tutorials. Stand out by learning in-demand Salesforce development skills.
 * [Pluralsight Courses](https://www.pluralsight.com/search?q=salesforce&categories=course) - A rapidly growing collection of courses covering Apex, Lightning, Integration and more. Authored by Salesforce MVPs and Certified Advanced Developers like Dan Appleman, David Liu, Don Robins, Sara Morgan and others.
 * [Udemy Course](https://www.udemy.com/salesforce-training/) - Hands on detailed and complete Instruction for both Admin and Developer part of Salesforce CRM.
 * [Udacity Course](https://www.udacity.com/course/intro-to-point-click-app-development--ud162) - This class teaches you how to build powerful web and mobile apps and host them in the cloud, without writing a line of code.
+
+### Books
+ * [Force.com Enterprise Architecture](https://www.amazon.com/Force-com-Enterprise-Architecture-Andrew-Fawcett/dp/1782172998) - Learn enterprise application development on the Force.com platform, by Andrew Fawcett.
+ * [Advanced Apex Programming](http://advancedapex.com) - Learn advanced Apex programming fundamentals and design patterns, by Dan Appleman.
+
+
 ### Salesforce Certification Program
 [<img src="http://www.runconsultants.com/wp-content/uploads/2015/04/salesforce-certified-e1429111675579.png" align="right" width="100">](http://certification.salesforce.com/)
  * Introducing three new Salesforce certifications:[ Salesforce Platform App Builder](http://certification.salesforce.com/app-builders), [Salesforce Platform Developer I](http://certification.salesforce.com/platform-developers), and  [Salesforce Platform Developer II](http://certification.salesforce.com/platform-developers).
