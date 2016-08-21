@@ -171,7 +171,7 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 * [ForceTK](https://github.com/developerforce/Force.com-JavaScript-REST-Toolkit)- ForceTK - a minimal Force.com REST API for JavaScript apps
 * [ForceEng](https://github.com/ccoenraets/forceng) - Micro-Library to use Salesforce REST API in AngularJS apps
 * [Formulon](https://github.com/leifg/formulon) - Formula parser completely implemented in ES6. [See Demo](http://formulon.io)
-
+* [Scripting Toolkit](https://www.adminbooster.com/tool/scripting-toolkit) - Windows based toolkit to run native Javascript to access Salesforce data.
 
 
 ## UX Libraries for Salesforce
