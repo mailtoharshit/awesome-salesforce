@@ -150,7 +150,7 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 
 ### Git Ignore for Salesforce
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/gitignore.png" align="right" width="120">
-* [GitIgnore for Salesforce ](https://github.com/mailtoharshit/gitignore)- SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
+* [GitIgnore for Salesforce ](https://github.com/mailtoharshit/gitignore)- Reusable .gitIgnore file for Salesforce or Force.com Projects
 
 ### Open Source Projects Repositories from Salesforce
 
