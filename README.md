@@ -146,6 +146,8 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 
 * [force-dev-tool](https://github.com/amtrack/force-dev-tool) - Command line tool supporting the Force.com development lifecycle.
 
+* [AdminBooster](https://www.adminbooster.com)- A command line tool designed for admins and developers to interact with Salesforce using the Windows console.
+
 ### Git Ignore for Salesforce
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/gitignore.png" align="right" width="120">
 * [GitIgnore for Salesforce ](https://github.com/mailtoharshit/gitignore)- SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
