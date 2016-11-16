@@ -69,6 +69,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)- VIM Plugin for Force.com.
 * [Force.com CLI](https://force-cli.heroku.com/)- Command-line interface to Force.com.
 * [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com
+* [JedIDE](https://plugins.jetbrains.com/plugin/9238) - Force.com integration for IntelliJ IDEA
 
 ### Salesforce Custom Search Engines
 * [findsf] (http://findsf.info): Google Custom Search of Salesforce related sites
