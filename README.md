@@ -52,7 +52,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/ideicon.png" align="right" width="120">
 
 * [Force.com IDE](https://developer.salesforce.com/page/Force.com_IDE) - Based on Eclipse Platform, supported and packaged by Salesforce.com
-* [Mavensmate for Sublime & Atom](http://mavensmate.com/) - Widely popular, 3rd party plugin package for Sublime Text and Atom editors
+* [Mavensmate for Sublime, Atom & VSCode](http://mavensmate.com/) - Widely popular, 3rd party plugin package for Sublime Text, Atom & Visual Studio Code editors
 * [BrainEngine] (http://www.brainengine.net/) - Premier IDE for Force.com Development, based on Visual Studio.
 * [ASIDE.IO] (https://www.aside.io) - Online Editor, fast and connects to any Salesforce org quickly.
 * [WelkinSuite for Windows] (https://welkinsuite.com/) - Desktop Editor for force.com application, free for use, pay for support.
@@ -64,12 +64,16 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) - Based on Eclipse Platform, supported and packaged by Salesforce.com
 * [Mavensmate Plugin for Sublime](https://mavensmate.com/Plugins/Sublime_Text/Installation) - Widely popular, 3rd party plugin package for Sublime Text Editor
 * [Atom Plugin](https://github.com/joeferraro/MavensMate-Atom)- MavensMate plugin for building Salesforce.com/Force.com/Salesforce1 applications inside GitHub's Atom text editor
-* [Visual Studio Code](https://github.com/celador/ForceCode) - ForceCode is a Visual Studio Code extension for Salesforce development
+* Visual Studio Code
+  * [ForceCode](https://github.com/celador/ForceCode) is a Visual Studio Code extension for Salesforce development
+  * [Mavensmate](https://marketplace.visualstudio.com/items?itemName=DavidHelmer.mavensmate) Mavensmate extension for VS code.  Very close in feature parity to Sublime version.
+  * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) Provides auto-completions for Apex & Visualforce, Go-To & Peek Definition and Realtime Syntax Checking
 * [ApexMate](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)- VIM Plugin for Force.com.
 * [Force.com CLI](https://force-cli.heroku.com/)- Command-line interface to Force.com.
 * [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com
 * [JedIDE](https://plugins.jetbrains.com/plugin/9238) - Force.com integration for IntelliJ IDEA
+
 
 ### Salesforce Custom Search Engines
 * [findsf] (http://findsf.info): Google Custom Search of Salesforce related sites
