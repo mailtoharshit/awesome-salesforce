@@ -154,6 +154,8 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 
 * [Salesforce IDs converter](https://www.adminbooster.com/tool/15to18)- Convert IDs on 15 characters to IDs on 18 characters.
 
+* [SOQooLio](https://soqool.io/)- Web app for querying, sorting, and exporting Salesforce data.
+
 ### Git Ignore for Salesforce
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/gitignore.png" align="right" width="120">
 * [GitIgnore for Salesforce ](https://github.com/mailtoharshit/gitignore)- Reusable .gitIgnore file for Salesforce or Force.com Projects
