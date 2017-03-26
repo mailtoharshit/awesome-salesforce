@@ -276,11 +276,11 @@ Create mobile apps with device feature-driven workflow using your standard or cu
 [Ionic Starter Pack for Saleforce](https://github.com/driftyco/ionic-starter-salesforce) - A starter project for Ionic and Salesforce
 
 ## Troubleshooting and queries
- * [__Force.com Discussion boards__](http://boards.developerforce.com/sforce/?category.id=developers) : Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here].
- * [__Tweet__](https://twitter.com/hashtag/askforce): Force.com community is pretty active on Twitter, tweet your question with hash #askforce
- * [__StackOverFlow__ ](http://stackoverflow.com/questions/tagged/salesforce):  Post your questions with right tags like apex, visualforce and salesforce to get a quick response.
- * [__StackExchange__ ](http://salesforce.stackexchange.com/): Salesforce Stack Exchange is a question and answer site for Salesforce administrators, implementation experts, developers and anybody in-between. It's 100% free, no registration required.
- * [__salesforce-developer.ru__](https://salesforce-developer.ru/): Russian-speaking Salesforce community: there are developer's and admin's forum and blog.
+ * [Force.com Discussion boards](http://boards.developerforce.com/sforce/?category.id=developers) : Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here].
+ * [Tweet](https://twitter.com/hashtag/askforce): Force.com community is pretty active on Twitter, tweet your question with hash #askforce
+ * [StackOverFlow](http://stackoverflow.com/questions/tagged/salesforce):  Post your questions with right tags like apex, visualforce and salesforce to get a quick response.
+ * [StackExchange](http://salesforce.stackexchange.com/): Salesforce Stack Exchange is a question and answer site for Salesforce administrators, implementation experts, developers and anybody in-between. It's 100% free, no registration required.
+ * [salesforce-developer.ru](https://salesforce-developer.ru/): Russian-speaking Salesforce community: there are developer's and admin's forum and blog.
 
 
 ### Official Salesforce Twitter Accounts [<img src="https://g.twimg.com/Twitter_logo_blue.png" align="right" width="60">](https://twitter.com/)
