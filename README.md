@@ -111,13 +111,12 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 <br/>
 
 * [Apex Core HttpCallout](https://github.com/financialforcedev/ffhttp-core)-Apex HTTP Callout Framework.
-
-* This library has been extended by five libraries
-  * [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint)
-  * [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive)
-  * [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror)
-  * [Google Sheets](https://github.com/financialforcedev/ffhttp-googlesheets)
-  * [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox)
+    * This library has been extended by five libraries
+        * [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint)
+        * [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive)
+        * [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror)
+        * [Google Sheets](https://github.com/financialforcedev/ffhttp-googlesheets)
+        * [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox)
 
  <b>Key Features of this library</b>
   + Framework for HTTP callouts.
