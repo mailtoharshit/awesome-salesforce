@@ -114,8 +114,9 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
     * [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror)
     * [Google Sheets](https://github.com/financialforcedev/ffhttp-googlesheets)
     * [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox)
- <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core"><img alt="Deploy to Salesforce"src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
-  </a>
+ 
+    <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core"><img alt="Deploy to Salesforce"src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+    </a>
 
  <b>Key Features of this library</b>
   + Framework for HTTP callouts.
