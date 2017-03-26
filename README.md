@@ -222,11 +222,7 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 * [Talend](https://www.talend.com/products/talend-open-studio) - An open source application for data integration job design with a graphical development environment.
 * Some other solutions from [awesome-etl list](https://github.com/pawl/awesome-etl).
 
-
 ## Salesforce Lighting
-
-<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/lightning.jpg" align="right" width="60">
-
 * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework
 
 ## Salesforce Browser Extensions
@@ -296,6 +292,7 @@ Create mobile apps with device feature-driven workflow using your standard or cu
  * [Salesforce Engineering](https://twitter.com/SalesforceEng)
  * [Salesforce UX](https://twitter.com/SalesforceUX)
  * [Salesforce PartnerForce](https://twitter.com/partnerforce)
+
 
 ### Learning Salesforce Platform
 
