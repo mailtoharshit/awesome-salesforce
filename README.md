@@ -86,42 +86,47 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 ### Packages and Libraries supporting salesforce
 
-* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito  <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks">
+* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito  
+<a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks">
   <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
 * [Apex Commons](https://github.com/financialforcedev/fflib-apex-common)- Common Apex Library supporting Apex Enterprise Patterns and much more!
 
-**Dependencies:** Must deploy [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks) before deploying this library.Also see [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/><a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common">
+    **Dependencies:** Must deploy [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks) before deploying this library.Also see [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/><a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common">
 <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/package.png" align="right" width="220">
 * [Apex Commons Sample Code](https://github.com/financialforcedev/fflib-apex-common-samplecode)- Samples application illustrating the Apex Enterprise Patterns library
-**Dependencies:** Must deploy [Apex Common ](https://github.com/financialforcedev/fflib-apex-common) before deploying this library<br/>
-<a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common-samplecode">
-  <img alt="Deploy to Salesforce"
+    **Dependencies:** Must deploy [Apex Common ](https://github.com/financialforcedev/fflib-apex-common) before deploying this library<br/>
+    <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common-samplecode">
+    <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
-</a>
+    </a>
+
 * [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi)-Apex Wrapper for the Salesforce Metadata API     <br/>
 <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi">
-  <img alt="Deploy to Salesforce"
-       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+  <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
-
+<br/>
 * [Apex Core HttpCallout](https://github.com/financialforcedev/ffhttp-core)-Apex HTTP Callout Framework.
 <br/>
-This **Core** library has been extended by five libraries [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint), [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive), [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror), [Google Sheets](https://github.com/financialforcedev/ffhttp-googlesheets) and [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox).  
+This library has been extended by five libraries 
+* [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint) 
+* [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive)
+* [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror)
+* [Google Sheets](https://github.com/financialforcedev/ffhttp-googlesheets)
+* [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox)
+
  <b>Key Features of this library</b>
   + Framework for HTTP callouts.
   + JSON serialization and deserialization base classes.
   + OAuth Client - extends the base AbstractClient to provide the callouts required for OAuth authentication.
   <br/>
-<a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core">
+  <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core">
     <img alt="Deploy to Salesforce"
         src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
-</a>
-
-
+  </a>
 
 * [Polyforce](https://github.com/mailtoharshit/polyforce) - PolyForce is the project started as an idea with a motive create polymer applications/components that derive data from Salesforce, The idea create a robust set of polymer components that can mutually be shared with each other and on the other hand provide a working sample for developers to learn and get inspired to built more components <br/>
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://na17.salesforce.com/packaging/installPackage.apexp?p0=04to00000003EDJ)
@@ -131,7 +136,9 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 * [SfApexDoc](http://force-code.com/category/sfapexdoc/) - A full-featured Apex documentation generator, similar to JavaDoc.
 
 ### Developer Utilities
+
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/utilities.png" align="right" width="220">
+
 * [Weave](http://mailtoharshit.github.io/Weave/) - Sublime Text Plugin to generate boilerplate Salesforce Code Templates  
 
 * [GitHub Salesforce Deploy Tool](https://githubsfdeploy.herokuapp.com/) - Automagically deploy a GitHub repository to a Salesforce ORG and add a <img src="https://githubsfdeploy.herokuapp.com/resources/img/deploy.png" > button to your README.md files
@@ -163,7 +170,9 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 * [SOQooLio](https://soqool.io/)- Web app for querying, sorting, and exporting Salesforce data.
 
 ### Git Ignore for Salesforce
+
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/gitignore.png" align="right" width="120">
+
 * [GitIgnore for Salesforce ](https://github.com/mailtoharshit/gitignore)- Reusable .gitIgnore file for Salesforce or Force.com Projects
 
 ### Open Source Projects Repositories from Salesforce
@@ -171,15 +180,16 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 * [Salesforce Git Repo](https://github.com/forcedotcom) - Grab all latest salesforce open source projects here, you will find awesome projects, framework, libraries that salesforce and opened for the world
 * [ForcedotCom Labs](https://github.com/ForceDotComLabs) - Checkout open source and experimental projects from Salesforce Team. Get an early access to features that can qualify in feature and contribute your ideas 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/open%20source.png" align="right" width="90">
+
 * [Salesforce Mobile UI - Polymer Elements for Salesforce] (https://github.com/forcedotcom/mobile-ui-elements) - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets
 * [ForceServer](https://github.com/ccoenraets/force-server) - It supportes a proxy and web server, ForceServer is a simple development server aimed at providing a simple and integrated developer experience when building applications that use Salesforce OAuth and REST services.
-
-
 
 ## Javascript Libraries for Salesforce
 
 * [JSForce - JSforce (f.k.a. Node-Salesforce) is a isomorphic JavaScript Library utilizing Salesforce's API: It works both in browser and with Node.js.] (https://jsforce.github.io/) - it capsulates the access to various APIs provided by Salesforce in asynchronous JavaScript function calls.Unlike other Salesforce API libraries, it is intended to give integrated interface both server-side and client-side apps, so you don't have to rewrite similar logics with different libraries only for running in different environment.Additionally, it has useful command line interface (CLI) which gives interactive console (REPL), so you can learn the usage without hassle.
+
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/JavaScript.png" align="right" width="220">
+
 * [ForceSniffer - Device Detection Library for Salesforce] (https://github.com/mailtoharshit/ForceSniffer.Js) - Simplified Library that detect Mobile Devices, Salesforce1 App and other Saleforce Context.
 * [ForceJS](https://github.com/ccoenraets/forcejs/tree/es6) - With ES6 support now, this micro library designed to use the Salesforce REST APIs in JavaScript Apps
 * [nForce](https://github.com/kevinohara80/nforce) - nforce is a node.js salesforce REST API wrapper for force.com, database.com, and salesforce.com
@@ -202,6 +212,7 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 
 
 ## ETL Tools
+
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/ETL.jpg" align="right" width="220">
 * [Data Loader](https://developer.salesforce.com/page/Data_Loader) - Is an easy to use graphical tool that helps you to get your data into Salesforce objects.
 * [SFXOrgData](https://www.sfapex.com/) - Copy data from your Production or Full Sandbox environment to Developer/Dev Pro sandboxes.
@@ -213,13 +224,13 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 
 
 ## Salesforce Lighting
+
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/lightning.jpg" align="right" width="60">
 
 * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework
 
 ## Salesforce Browser Extensions
 * [Awesome Salesforce Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce): Collection of Awesome Browser Extensions for Salesforce
-
 
 ## Mobile Development with Salesforce
 
