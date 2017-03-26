@@ -109,20 +109,23 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 <br/>
+
 * [Apex Core HttpCallout](https://github.com/financialforcedev/ffhttp-core)-Apex HTTP Callout Framework.
+
 <br/>
 This library has been extended by five libraries 
-* [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint) 
-* [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive)
-* [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror)
-* [Google Sheets](https://github.com/financialforcedev/ffhttp-googlesheets)
-* [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox)
+    * [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint) 
+    * [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive)
+    * [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror)
+    * [Google Sheets](https://github.com/financialforcedev/ffhttp-googlesheets)
+    * [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox)
 
  <b>Key Features of this library</b>
   + Framework for HTTP callouts.
   + JSON serialization and deserialization base classes.
   + OAuth Client - extends the base AbstractClient to provide the callouts required for OAuth authentication.
   <br/>
+  
   <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core">
     <img alt="Deploy to Salesforce"
         src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
