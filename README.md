@@ -78,8 +78,8 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 ### Salesforce Custom Search Engines
 
-* [findsf] (http://findsf.info): Google Custom Search of Salesforce related sites
-* [Search The Force.com] (http://searchtheforce.com): Google custom search of Salesforce related sites with OpenSearch support
+* [findsf](http://findsf.info): Google Custom Search of Salesforce related sites
+* [Search The Force.com](http://searchtheforce.com): Google custom search of Salesforce related sites with OpenSearch support
 
 ### Browser extensions for Salesforce
   Read cruciated list of [Awesome-list-of-browser-extensions-of-salesforce](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
