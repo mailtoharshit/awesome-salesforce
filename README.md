@@ -107,7 +107,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
-* [Apex Core HttpCallout](https://github.com/financialforcedev/ffhttp-core)-Apex HTTP Callout Framework.
+* [Apex Core HttpCallout](https://github.com/financialforcedev/ffhttp-core)-Apex HTTP Callout Framework.<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a><br/>
 
