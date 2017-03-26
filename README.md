@@ -87,15 +87,15 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 ### Packages and Libraries supporting salesforce
 
 * [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) - ApexMocks is a mocking framework for the Force.com Apex language.It derives it's inspiration from the well known Java mocking framework Mockito  
-<a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks">
-  <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
-</a>
+    <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks">
+    <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+    </a>
 
 * [Apex Commons](https://github.com/financialforcedev/fflib-apex-common)- Common Apex Library supporting Apex Enterprise Patterns and much more!
-
-    **Dependencies:** Must deploy [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks) before deploying this library.Also see [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/><a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common">
-<img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+    ***Dependencies:*** Must deploy [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks) before deploying this library.Also see [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/>
+    <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
+
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/package.png" align="right" width="220">
 * [Apex Commons Sample Code](https://github.com/financialforcedev/fflib-apex-common-samplecode)- Samples application illustrating the Apex Enterprise Patterns library
     **Dependencies:** Must deploy [Apex Common ](https://github.com/financialforcedev/fflib-apex-common) before deploying this library<br/>
