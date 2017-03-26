@@ -108,8 +108,9 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 </a>
 
 * [Apex Core HttpCallout](https://github.com/financialforcedev/ffhttp-core)-Apex HTTP Callout Framework.
-        <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core"><img alt="Deploy to Salesforce"src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
-    </a><br/>
+    <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+</a>
+<br/>
     This library has been extended by five libraries <br/>
     * [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint)
     * [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive)
