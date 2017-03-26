@@ -138,7 +138,7 @@ This library has been extended by five libraries <br/>
 * [Weave](http://mailtoharshit.github.io/Weave/) - Sublime Text Plugin to generate boilerplate Salesforce Code Templates  
 
 * [GitHub Salesforce Deploy Tool](https://githubsfdeploy.herokuapp.com/) - Automagically deploy a GitHub repository to a Salesforce ORG 
-  and button 'Deploy to Salesforce button' to your README.md files
+  and "Deploy to Salesforce button" to your README.md files
 
 * [Cinnamon](https://github.com/forcedotcom/cinnamon)-Cinnamon is a Force.com app that enables you to build and run Selenium tests to validate custom UI pages with Visualforce/Javascript in your Salesforce org.
 
