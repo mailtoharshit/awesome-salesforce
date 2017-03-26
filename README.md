@@ -119,6 +119,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   + Framework for HTTP callouts.
   + JSON serialization and deserialization base classes.
   + OAuth Client - extends the base AbstractClient to provide the callouts required for OAuth authentication.
+  
   <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core"><img alt="Deploy to Salesforce"src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
   </a>
 
