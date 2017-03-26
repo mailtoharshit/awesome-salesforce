@@ -158,8 +158,6 @@ This library has been extended by five libraries <br/>
 
 * [force-dev-tool](https://github.com/amtrack/force-dev-tool) - Command line tool supporting the Force.com development lifecycle.
 
-* [AdminBooster](https://www.adminbooster.com)- A command line tool designed for admins and developers to interact with Salesforce using the Windows console.
-
 * [JSON to Apex](https://www.adminbooster.com/tool/json2apex)- Generate an Apex class from a JSON string.
 
 * [Salesforce IDs converter](https://www.adminbooster.com/tool/15to18)- Convert IDs on 15 characters to IDs on 18 characters.
