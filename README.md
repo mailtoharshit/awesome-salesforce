@@ -145,7 +145,9 @@ This **Core** library has been extended by five libraries [Google Cloud Print](h
 * [Analytics-Cloud-Dataset-Utils](https://github.com/forcedotcom/Analytics-Cloud-Dataset-Utils)- Utility to load external data into Analytics Cloud datasets, and transform existing datasets.
 
 * [Workbench](https://github.com/ryanbrainard/forceworkbench)- Workbench is a powerful, web-based suite of tools designed for administrators and developers to interact with Salesforce.com organizations via the Force.com APIs.
- 
+
+* [Playground](https://www.adminbooster.com/tool)- Adminbooster Playground is an online tool to run SOQL/SOSL queries or Apex code, providing high level features for analysis and admin productivity.
+
 * [CassaCloud](http://cassacloud.com/nice-salesforce-debug/)- Nice salesforce debug helps you to understand logs from Salesforce developer console. For example if you have Map of map with lists, it is hard to find value where it exactly is.
 
 * [SoqlXplorer](https://github.com/superfell/SoqlX)- SoqlXplorer is an awesome tool for developers using the Salesforce.com platform.
