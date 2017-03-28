@@ -1,0 +1,8 @@
+title: Awesome-salesforce
+description: A curated list of delightful Salesforce Platform Resources
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
