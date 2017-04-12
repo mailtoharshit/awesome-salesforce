@@ -131,8 +131,7 @@ This library has been extended by five libraries <br/>
 * [Apex UML Digram Maker](https://github.com/afawcett/apex-umlcanvas) - Create UML diagrams from Apex code using the Tooling API <br/>
 * [SfApexDoc](http://force-code.com/category/sfapexdoc/) - A full-featured Apex documentation generator, similar to JavaDoc.
 
-* [Visualforce TableGrid](https://github.com/Up2Go/visualforce-table-grid) - TableGrid is a free, open-source Force.com library, that provides users and developers a highly customizable, native-looking, sortable, filterable, editable Grid Visualforce component. This component can be used as an advanced, highly configurable (by developer and user) replacement of apex:pageBlockTables and Standard Related Lists.
-
+* [Visualforce TableGrid](https://github.com/Up2Go/visualforce-table-grid) - TableGrid is a free, open-source Force.com library, that provides users and developers a highly customizable, native-looking, sortable, filterable, editable Grid Visualforce component. This component can be used as an advanced, highly configurable (by developer and user) replacement of apex:pageBlockTables and Standard Related Lists </br>
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=Up2Go&repo=visualforce-table-grid)
 
 ### Developer Utilities
