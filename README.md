@@ -324,6 +324,7 @@ Create mobile apps with device feature-driven workflow using your standard or cu
 * [Abhinav Gupta -(TechGerm)](http://www.tgerm.com/)- Force.com MVP & Architect - Passionate about S1 & Javascript, Architect by Profession and now owner of his company focusing on salesforce Consulting [Read More](https://plus.google.com/+AbhinavGuptaIn/posts)
 * [Jitendra Zaa](http://www.jitendrazaa.com/blog/)- 7 Salesforce Certificates, MVP and Technical Architect working on platform since 2008 [Read More](http://jitendrazaa.com/)
 * [Mohith Shrivastava -(CloudyWorld)](http://cloudyworlds.blogspot.com/)- Mohit is CodeScience at Codescience.com. He is known for his valuable contribution in [stackexchange](http://salesforce.stackexchange.com/users/645/mohith-shrivastava) owns 9x Salesforce certification. 
+* [Daniel Ballinger - (FishOfPrey)](http://www.fishofprey.com/search/label/Salesforce) Daniel Ballinger is a Developer at Fuse IT, a Salesforce Partner in New Zealand. Known for contributions to [stackexchange](http://salesforce.stackexchange.com/users/102/daniel-ballinger) and for making an alternative version of [Wsdl2Apex](http://www.fishofprey.com/2014/03/an-alternative-to-salesforces-wsdl2apex.html)  [Read More] (https://plus.google.com/+DanielBallinger/about)
 
 
 ## Contribute
