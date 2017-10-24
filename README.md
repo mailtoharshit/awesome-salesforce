@@ -299,6 +299,7 @@ Create mobile apps with device feature-driven workflow using your standard or cu
 * [Trailhead](https://developer.salesforce.com/trailhead) - Trailhead teaches you how to build cloud apps for free with fun, interactive tutorials. Stand out by learning in-demand Salesforce development skills.
 * [Udemy Course](https://www.udemy.com/salesforce-training/) - Hands on detailed and complete Instruction for both Admin and Developer part of Salesforce CRM.
 * [Udacity Course](https://www.udacity.com/course/intro-to-point-click-app-development--ud162) - This class teaches you how to build powerful web and mobile apps and host them in the cloud, without writing a line of code.
+* [Pluralsight Course](https://www.pluralsight.com/courses/apex-absolute-beginner-guide-coding-salesforce) - A crash course on how to code Apex taught by four time Salesforce MVP David Liu.
 
 ### Salesforce Certification Program
 [<img src="http://www.runconsultants.com/wp-content/uploads/2015/04/salesforce-certified-e1429111675579.png" align="right" width="100">](http://certification.salesforce.com/)
@@ -315,6 +316,7 @@ Create mobile apps with device feature-driven workflow using your standard or cu
 * [Salesforce Developer Releations Blog](https://developer.salesforce.com/blogs/) - Managed by Salesforce Developer Relations Team, you will find coolest of updates in the world of Salesforce, mostly experienments, features and developer evagelist blog official from this podium.  
 * [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/) - Covers latest update from engineering team, you will find updates about core engineering and product releated post and some awesome people to follow
 * [Andrew Fawcett](http://andyinthecloud.com/) - CTO at Financialforce.com, Author and known for his outstanding contribution to Salesforce Community. [Read More](http://andyinthecloud.com/about/)
+* [Andrez Perez - (ElToro.IT)](https://eltoroit.herokuapp.com) - Articles about Lightning Components, Apex, Visualforce, Force.com and Salesforce in general. He is a Master Technical Instructor at Salesforce.com and owns 11x Salesforce certifications.
 * [Christophe Coenraets](http://coenraets.org/blog/) - Christophe Coenraets is a Developer Evangelist for Salesforce.com where he focuses on mobile application development, [Read More](http://coenraets.org/blog/bio/)
 * [Harshit Pandey -(Oyecode)](http://www.oyecode.com/) - Harshit Pandey is Principal Technical Architect at Intuitive Surgical, previously Technical Architect at Salesforce.com Developer Relations Team and build  [Trailhead](https://developer.salesforce.com/trailhead) while at Salesforce, love to expriement with ever evoloving capacities of Salesforce [Read More](https://about.me/harshit.pandey)
 * [Jeff Doughlas](http://blog.jeffdouglas.com/) - Senior Technical Consultant at Appirio & Developer Evangelist Architect at topcoder specializing in cloud-based, APIs & mobile apps. [Read More](http://blog.jeffdouglas.com/about/)
