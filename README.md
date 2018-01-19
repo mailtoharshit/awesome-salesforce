@@ -91,38 +91,38 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
     <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
     </a>
 
-* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common)- Common Apex Library supporting Apex Enterprise Patterns and much more!
+* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common) - Common Apex Library supporting Apex Enterprise Patterns and much more!
     Must deploy [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks) before deploying this library.Also see [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/package.png" align="right" width="220">
 
-* [Apex Commons Sample Code](https://github.com/financialforcedev/fflib-apex-common-samplecode)- Samples application illustrating the Apex Enterprise Patterns library
+* [Apex Commons Sample Code](https://github.com/financialforcedev/fflib-apex-common-samplecode) - Samples application illustrating the Apex Enterprise Patterns library
     Must deploy [Apex Common ](https://github.com/financialforcedev/fflib-apex-common) before deploying this library<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common-samplecode"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
-* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi)-Apex Wrapper for the Salesforce Metadata API <br/>
+* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) - Apex Wrapper for the Salesforce Metadata API <br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
-* [Apex Core HttpCallout](https://github.com/financialforcedev/ffhttp-core)-Apex HTTP Callout Framework.<br/>
+* [Apex Core HttpCallout](https://github.com/financialforcedev/ffhttp-core) - Apex HTTP Callout Framework.<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a><br/>
 
-This library has been extended by five libraries <br/>
-* [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint)
-* [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive)
-* [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror)
-* [Google Sheets](https://github.com/financialforcedev/ffhttp-googlesheets)
-* [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox)
+  This library has been extended by five libraries <br/>
+  * [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint)
+  * [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive)
+  * [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror)
+  * [Google Sheets](https://github.com/financialforcedev/ffhttp-googlesheets)
+  * [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox)
 
 
- <b>Key Features of this library</b>
-  + Framework for HTTP callouts.
-  + JSON serialization and deserialization base classes.
-  + OAuth Client - extends the base AbstractClient to provide the callouts required for OAuth authentication.
+  <b>Key Features of this library</b>
+    + Framework for HTTP callouts.
+    + JSON serialization and deserialization base classes.
+    + OAuth Client - extends the base AbstractClient to provide the callouts required for OAuth authentication.
 
 * [Polyforce](https://github.com/mailtoharshit/polyforce) - PolyForce is the project started as an idea with a motive create polymer applications/components that derive data from Salesforce, The idea create a robust set of polymer components that can mutually be shared with each other and on the other hand provide a working sample for developers to learn and get inspired to built more components <br/>
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://na17.salesforce.com/packaging/installPackage.apexp?p0=04to00000003EDJ)
