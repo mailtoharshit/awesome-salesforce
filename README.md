@@ -252,32 +252,6 @@ AngularJS Pack : [Get Started](https://developer.salesforce.com/mobile/getting-s
 Design and build apps that separate UI, logic, and data using Mobile Pack for AngularJS. Google's AngularJS lets you reap the benefits of a Model-View-Control architecture in your JavaScript code and utilize advanced features like reusable components and dependency injection.
 
 
-Jquery Pack : [Get Started](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery) | [Github Repo](https://github.com/developerforce/MobilePack-jQueryMobile) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365443533/mxpjwcbxf1zxg4ptzyf1.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
-Quickly create mobile web and hybrid apps using the Mobile Pack for jQuery Mobile. jQuery Mobile is a touch-optimized web framework that lets you develop mobile web applications using HTML5, JavaScript and CSS3 for a wide variety of smartphones and tablet computers.
-
-Backbone Pack : [Get Started](https://developer.salesforce.com/mobile/getting-started/html5/#backbone) | [Github Repo](https://github.com/developerforce/MobilePack-BackboneJS) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365443611/xh5arugajxlhquh6jesc.png" align="left" width="180">](https://developer.salesforce.com/mobile/getting-started/html5/#backbone)
-Add structure to your mobile web and hybrid applications with Mobile Pack for Backbone.js. Backbone.js is a JavaScript framework that provides models with key-value binding and custom events, collections with a rich API of enumerable functions, and views with declarative event handling.
-
-Knockout Pack : [Get Started](https://developer.salesforce.com/mobile/getting-started/html5/#knockout) | [Github Repo](https://github.com/developerforce/MobilePack-KnockoutJS) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1373054813/knockout.png.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#knockout))
-Get Mobile Pack for Knockout and create mobile apps with responsive design that updates dynamically. Knockout adds dependency tracking that refreshes your UI whenever your data changes, and lets you create new resusable custom behaviors.
-
-Appery.IO Pack : [Get Started](http://appery.io/salesforce/?utm_source=external&utm_medium=link&utm_campaign=ongoingPartnerLinks)[<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1373054840/appery.png.png" align="left" width="180">](http://appery.io/salesforce/?utm_source=external&utm_medium=link&utm_campaign=ongoingPartnerLinks)
-Accelerate cross-platform app development when connecting to the Salesforce Platform using the Mobile Pack for Appery.io. Build apps using a cloud-based, visual drag and drop editor and easily connect to any Salesforce APIs. Includes Contacts and OAuth sample apps that you can reuse.
-
-Sencha Pack : [Get Started](https://market.sencha.com/extensions/sencha-touch-connector-for-salesforce-rest-api) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/sencha_logo.jpg" align="left" width="180">](https://market.sencha.com/extensions/sencha-touch-connector-for-salesforce-rest-api)
-Use Mobile Pack for Sencha to quickly build cross-platform mobile apps that connect to the most trusted cloud platform. Leverage HTML5 components with built-in state management and fluid animations to display customer data in visually dynamic ways.
-
-Xamrin Pack : [Get Started](https://components.xamarin.com/view/SalesforceSDK) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/Xamarin.jpg" align="left" width="180">](https://components.xamarin.com/view/SalesforceSDK)
-Build sophisticated cross-platform apps that access Salesforce Platform data using Mobile Pack for Xamarin and C#. Leverage Salesforce Platform features like security and identity, and use declarative bindings to invoke third-party Java, Objective-C and C++ libraries or call them directly from C#.
-
-Appcelerator Pack : [Get Started](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)  |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/appcelerator4.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
-Mobilize your Salesforce data and build native, cross-platform apps from a single JavaScript codebase with the Mobile Pack for Appcelerator®. With an Eclipse-based IDE and MVC framework, developers can build reusable components to deliver highly effective apps leveraging their Salesforce platform.
-
-VizApps Pack : [Get Started](http://www.viziapps.com/learn-more/create-custom-mobile-apps-with-salesforce-data/) | [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/viziapps_web_logo_2.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
-Create mobile apps with device feature-driven workflow using your standard or custom objects with Mobile Pack for ViziApps. Combine flexible UX design with Salesforce data into your app’s workflow without coding, then publish to the Apple App Store, Google Play, or directly to your enterprise users.
-
-[Ionic Starter Pack for Saleforce](https://github.com/driftyco/ionic-starter-salesforce) - A starter project for Ionic and Salesforce
-
 ## Troubleshooting and queries
  * [Force.com Discussion boards](http://boards.developerforce.com/sforce/?category.id=developers) : Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here].
  * [Tweet](https://twitter.com/hashtag/askforce): Force.com community is pretty active on Twitter, tweet your question with hash #askforce
