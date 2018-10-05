@@ -51,6 +51,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 ### IDE
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/ideicon.png" align="right" width="120">
 
+* [Visual Studio Code](https://code.visualstudio.com/) - The new official IDE supported by Salesforce.com
 * [Force.com IDE](https://developer.salesforce.com/page/Force.com_IDE) - Based on Eclipse Platform, supported and packaged by Salesforce.com
 * [Mavensmate for Sublime, Atom & VSCode](http://mavensmate.com/) - Widely popular, 3rd party plugin package for Sublime Text, Atom & Visual Studio Code editors
 * [BrainEngine](http://www.brainengine.net/) - Premier IDE for Force.com Development, based on Visual Studio.
