@@ -33,7 +33,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Developer Utilities/Tools for Salesforce](#browser-extensions-for-salesforce)
   * [Salesforce Browser Extensions](#browser-extensions-for-salesforce)
   * [Open Source Github Project from Salesforce](#open-source-projects-repositories-from-salesforce)
-  * [Salesforce Lighting Resources](#salesforce-lighting)
+  * [Salesforce Lightning Resources](#salesforce-lightning)
   * [Mobile Development with Salesforce](#mobile-development-with-salesforce)
     * [Mobile SDK](#mobile-sdk)
     * [Mobile Packs](#salesforce-mobile-packs-with-javascript-libraries-)
@@ -213,7 +213,7 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/UX.jpg" align="right" width="120">
 
 * [Feather - Google Material Design Mockup for Salesforce](https://github.com/mailtoharshit/Feather/blob/master/README.md) - Library 
-* [React Components for Saleforce Lighting Design System](http://mashmatrix.github.io/react-lightning-design-system/) - Salesforce Lightning Design System components built with React
+* [React Components for Saleforce Lightning Design System](http://mashmatrix.github.io/react-lightning-design-system/) - Salesforce Lightning Design System components built with React
 * [Salesforce ReactJS SPA Starter](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)
 * [ForceSpinner](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
 
@@ -229,8 +229,8 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 * [Talend](https://www.talend.com/products/talend-open-studio) - An open source application for data integration job design with a graphical development environment.
 * Some other solutions from [awesome-etl list](https://github.com/pawl/awesome-etl).
 
-## Salesforce Lighting
-* [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework
+## Salesforce Lightning
+* [Awesome Lightning](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework
 
 ## Salesforce Browser Extensions
 * [Awesome Salesforce Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce): Collection of Awesome Browser Extensions for Salesforce
