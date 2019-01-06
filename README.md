@@ -13,7 +13,7 @@
 
 
 ## What is Awesome Salesforce ?
-Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/sindresorhus/) who is most popular person on  [Github](http://githubranking.com/sindresorhus). He created a project to list down coolest of links bookmarked in your machines and organized them together by compiling them at one place. Later, this projects caught fire and developers community around the world started writing awesome pages (dedicated to their favorite technology).
+Awesome is awesome project started by [Sindre Sorhus](https://github.com/sindresorhus) who is most popular person on  [Github](https://github.com/sindresorhus). He created a project to list down coolest of links bookmarked in your machines and organized them together by compiling them at one place. Later, this projects caught fire and developers community around the world started writing awesome pages (dedicated to their favorite technology).
 
 ## What makes for an awesome list?
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
@@ -33,7 +33,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Developer Utilities/Tools for Salesforce](#browser-extensions-for-salesforce)
   * [Salesforce Browser Extensions](#browser-extensions-for-salesforce)
   * [Open Source Github Project from Salesforce](#open-source-projects-repositories-from-salesforce)
-  * [Salesforce Lighting Resources](#salesforce-lighting)
+  * [Salesforce Lightning Resources](#salesforce-lightning)
   * [Mobile Development with Salesforce](#mobile-development-with-salesforce)
     * [Mobile SDK](#mobile-sdk)
     * [Mobile Packs](#salesforce-mobile-packs-with-javascript-libraries-)
@@ -51,9 +51,9 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 ### IDE
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/ideicon.png" align="right" width="120">
 
+The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased developement.
+
 * [Force.com IDE](https://developer.salesforce.com/page/Force.com_IDE) - Based on Eclipse Platform, supported and packaged by Salesforce.com
-* [Mavensmate for Sublime, Atom & VSCode](http://mavensmate.com/) - Widely popular, 3rd party plugin package for Sublime Text, Atom & Visual Studio Code editors
-* [BrainEngine](http://www.brainengine.net/) - Premier IDE for Force.com Development, based on Visual Studio.
 * [ASIDE.IO](https://www.aside.io) - Online Editor, fast and connects to any Salesforce org quickly.
 * [WelkinSuite for Windows](https://welkinsuite.com/) - Desktop Editor for force.com application, free for use, pay for support.
 * [C9.IO](https://get.c9.io/salesforce/) - Online Editor, connects to any Salesforce org quickly.
@@ -63,18 +63,16 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/forceplug.png" align="right" width="220">
 
 * [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) - Based on Eclipse Platform, supported and packaged by Salesforce.com
-* [Mavensmate Plugin for Sublime](https://mavensmate.com/Plugins/Sublime_Text/Installation) - Widely popular, 3rd party plugin package for Sublime Text Editor
 * [Atom Plugin](https://github.com/joeferraro/MavensMate-Atom)- MavensMate plugin for building Salesforce.com/Force.com/Salesforce1 applications inside GitHub's Atom text editor
 * Visual Studio Code
   * [ForceCode](https://github.com/celador/ForceCode) is a Visual Studio Code extension for Salesforce development
-  * [Mavensmate](https://marketplace.visualstudio.com/items?itemName=DavidHelmer.mavensmate) Mavensmate extension for VS code.  Very close in feature parity to Sublime version.
   * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) Provides auto-completions for Apex & Visualforce, Go-To & Peek Definition and Realtime Syntax Checking
 * [ApexMate](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)- VIM Plugin for Force.com.
 * [Force.com CLI](https://force-cli.heroku.com/)- Command-line interface to Force.com.
 * [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com
 * [JedIDE](https://plugins.jetbrains.com/plugin/9238) - Force.com integration for IntelliJ IDEA
-
+* [Mavensmate](https://marketplace.visualstudio.com/items?itemName=DavidHelmer.mavensmate) Mavensmate extension for VS code.  The main Mavansmate project is now no longer active, so this plugin may be of limited use.
 
 ### Salesforce Custom Search Engines
 
@@ -138,6 +136,8 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 * [R.apex](https://github.com/Click-to-Cloud/R.apex/) - Functional library for Apex. This library, inspired by Ramda.js, offers a bunch of utility functions to manipulate Apex collections, as well as extensive support for functional programming.
 
+* [Force DI](https://github.com/afawcett/force-di) - Generic [dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) (DI) library with support for injecting Apex, Visualforce, Lightning, and Flows at runtime.
+
 ### Developer Utilities
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/utilities.png" align="right" width="220">
@@ -170,6 +170,8 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Salesforce IDs converter](https://www.adminbooster.com/tool/15to18)- Convert IDs on 15 characters to IDs on 18 characters.
 
 * [SOQooLio](https://soqool.io/)- Web app for querying, sorting, and exporting Salesforce data.
+
+* [Sweet.apex](https://github.com/Click-to-Cloud/Sweet.apex/) - Sweet.apex is the next generation of Apex development, transpiling Sweet Apex(a feature-rich Apex-like code) to Apex classes.
 
 ### Git Ignore for Salesforce
 
@@ -211,7 +213,7 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/UX.jpg" align="right" width="120">
 
 * [Feather - Google Material Design Mockup for Salesforce](https://github.com/mailtoharshit/Feather/blob/master/README.md) - Library 
-* [React Components for Saleforce Lighting Design System](http://mashmatrix.github.io/react-lightning-design-system/) - Salesforce Lightning Design System components built with React
+* [React Components for Saleforce Lightning Design System](http://mashmatrix.github.io/react-lightning-design-system/) - Salesforce Lightning Design System components built with React
 * [Salesforce ReactJS SPA Starter](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)
 * [ForceSpinner](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
 
@@ -227,8 +229,8 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 * [Talend](https://www.talend.com/products/talend-open-studio) - An open source application for data integration job design with a graphical development environment.
 * Some other solutions from [awesome-etl list](https://github.com/pawl/awesome-etl).
 
-## Salesforce Lighting
-* [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework
+## Salesforce Lightning
+* [Awesome Lightning](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework
 
 ## Salesforce Browser Extensions
 * [Awesome Salesforce Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce): Collection of Awesome Browser Extensions for Salesforce
