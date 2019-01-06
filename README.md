@@ -1,5 +1,5 @@
-
-<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/spring17.jpg" align="center" width="1200">
+ 
+<img src="https://cdn-images-1.medium.com/max/400/0*btue0hbdFixR5ccW." align="right" width="320" height="400">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -91,38 +91,38 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
     <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
     </a>
 
-* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common)- Common Apex Library supporting Apex Enterprise Patterns and much more!
+* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common) - Common Apex Library supporting Apex Enterprise Patterns and much more!
     Must deploy [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks) before deploying this library.Also see [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/package.png" align="right" width="220">
 
-* [Apex Commons Sample Code](https://github.com/financialforcedev/fflib-apex-common-samplecode)- Samples application illustrating the Apex Enterprise Patterns library
+* [Apex Commons Sample Code](https://github.com/financialforcedev/fflib-apex-common-samplecode) - Samples application illustrating the Apex Enterprise Patterns library
     Must deploy [Apex Common ](https://github.com/financialforcedev/fflib-apex-common) before deploying this library<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common-samplecode"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
-* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi)-Apex Wrapper for the Salesforce Metadata API <br/>
+* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) - Apex Wrapper for the Salesforce Metadata API <br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
-* [Apex Core HttpCallout](https://github.com/financialforcedev/ffhttp-core)-Apex HTTP Callout Framework.<br/>
+* [Apex Core HttpCallout](https://github.com/financialforcedev/ffhttp-core) - Apex HTTP Callout Framework.<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a><br/>
 
-This library has been extended by five libraries <br/>
-* [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint)
-* [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive)
-* [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror)
-* [Google Sheets](https://github.com/financialforcedev/ffhttp-googlesheets)
-* [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox)
+  This library has been extended by five libraries <br/>
+  * [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint)
+  * [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive)
+  * [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror)
+  * [Google Sheets](https://github.com/financialforcedev/ffhttp-googlesheets)
+  * [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox)
 
 
- <b>Key Features of this library</b>
-  + Framework for HTTP callouts.
-  + JSON serialization and deserialization base classes.
-  + OAuth Client - extends the base AbstractClient to provide the callouts required for OAuth authentication.
+  <b>Key Features of this library</b>
+    + Framework for HTTP callouts.
+    + JSON serialization and deserialization base classes.
+    + OAuth Client - extends the base AbstractClient to provide the callouts required for OAuth authentication.
 
 * [Polyforce](https://github.com/mailtoharshit/polyforce) - PolyForce is the project started as an idea with a motive create polymer applications/components that derive data from Salesforce, The idea create a robust set of polymer components that can mutually be shared with each other and on the other hand provide a working sample for developers to learn and get inspired to built more components <br/>
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://na17.salesforce.com/packaging/installPackage.apexp?p0=04to00000003EDJ)
@@ -133,6 +133,10 @@ This library has been extended by five libraries <br/>
 
 * [Visualforce TableGrid](https://github.com/Up2Go/visualforce-table-grid) - TableGrid is a free, open-source Force.com library, that provides users and developers a highly customizable, native-looking, sortable, filterable, editable Grid Visualforce component. This component can be used as an advanced, highly configurable (by developer and user) replacement of apex:pageBlockTables and Standard Related Lists </br>
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=Up2Go&repo=visualforce-table-grid)
+
+* [Force.com ESAPI](https://github.com/forcedotcom/force-dot-com-esapi) - Enterprise Security API for the Apex language on the Force.com platform. This library consists of three modules - Validation, Output Encoding and Access Control(CRUD, FLS and Sharing).
+
+* [R.apex](https://github.com/Click-to-Cloud/R.apex/) - Functional library for Apex. This library, inspired by Ramda.js, offers a bunch of utility functions to manipulate Apex collections, as well as extensive support for functional programming.
 
 ### Developer Utilities
 
@@ -241,38 +245,12 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 
 ## Salesforce Mobile Packs with Javascript Libraries [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365281769/ypqq9g8at1y1yqoo8h6g.png" align="right" width="300">](https://developer.salesforce.com/mobile/services/mobile-packs)
 
-Google Polymer Pack : [Try Designer](https://sfdc-designer.herokuapp.com/) | [Github Repo](https://github.com/forcedotcom/mobile-ui-elements) | [Watch Designer Video](https://www.youtube.com/watch?v=67FjSemJ7uQ&feature=youtu.be) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/polymer.png" align="left" width="180">](https://github.com/ForceDotComLabs/mobile-ui-elements)
+Google Polymer Pack : [Try Designer](https://sfdc-designer.herokuapp.com/) | [Github Repo](https://github.com/forcedotcom/mobile-ui-elements) | [Watch Designer Video](https://www.youtube.com/watch?v=67FjSemJ7uQ&feature=youtu.be) |  [<img src="https://www.polymer-project.org/images/logos/p-logo.png" align="left" width="180">](https://github.com/ForceDotComLabs/mobile-ui-elements)
 Build your Mobile App with a set of new HTML tags that ease the development of salesforce driven user interfaces. It's based on the Google’s Polymer framework and uses Web Components to provide fundamental building blocks for creating an Offline enabled application with Salesforce Mobile SDK
 
-AngularJS Pack : [Get Started](https://developer.salesforce.com/mobile/getting-started/html5/#angularjs) | [Github Repo](https://github.com/developerforce/MobilePack-AngularJS) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365443678/dsl4du0pi46hb28za8jz.png" align="left" width="180">](https://developer.salesforce.com/mobile/getting-started/html5/#jquery)
+AngularJS Pack : [Get Started](https://developer.salesforce.com/mobile/getting-started/html5/#angularjs) | [Github Repo](https://github.com/developerforce/MobilePack-AngularJS) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" align="left" width="180">](https://developer.salesforce.com/mobile/getting-started/html5/#jquery)
 Design and build apps that separate UI, logic, and data using Mobile Pack for AngularJS. Google's AngularJS lets you reap the benefits of a Model-View-Control architecture in your JavaScript code and utilize advanced features like reusable components and dependency injection.
 
-
-Jquery Pack : [Get Started](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery) | [Github Repo](https://github.com/developerforce/MobilePack-jQueryMobile) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365443533/mxpjwcbxf1zxg4ptzyf1.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
-Quickly create mobile web and hybrid apps using the Mobile Pack for jQuery Mobile. jQuery Mobile is a touch-optimized web framework that lets you develop mobile web applications using HTML5, JavaScript and CSS3 for a wide variety of smartphones and tablet computers.
-
-Backbone Pack : [Get Started](https://developer.salesforce.com/mobile/getting-started/html5/#backbone) | [Github Repo](https://github.com/developerforce/MobilePack-BackboneJS) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365443611/xh5arugajxlhquh6jesc.png" align="left" width="180">](https://developer.salesforce.com/mobile/getting-started/html5/#backbone)
-Add structure to your mobile web and hybrid applications with Mobile Pack for Backbone.js. Backbone.js is a JavaScript framework that provides models with key-value binding and custom events, collections with a rich API of enumerable functions, and views with declarative event handling.
-
-Knockout Pack : [Get Started](https://developer.salesforce.com/mobile/getting-started/html5/#knockout) | [Github Repo](https://github.com/developerforce/MobilePack-KnockoutJS) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1373054813/knockout.png.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#knockout))
-Get Mobile Pack for Knockout and create mobile apps with responsive design that updates dynamically. Knockout adds dependency tracking that refreshes your UI whenever your data changes, and lets you create new resusable custom behaviors.
-
-Appery.IO Pack : [Get Started](http://appery.io/salesforce/?utm_source=external&utm_medium=link&utm_campaign=ongoingPartnerLinks)[<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1373054840/appery.png.png" align="left" width="180">](http://appery.io/salesforce/?utm_source=external&utm_medium=link&utm_campaign=ongoingPartnerLinks)
-Accelerate cross-platform app development when connecting to the Salesforce Platform using the Mobile Pack for Appery.io. Build apps using a cloud-based, visual drag and drop editor and easily connect to any Salesforce APIs. Includes Contacts and OAuth sample apps that you can reuse.
-
-Sencha Pack : [Get Started](https://market.sencha.com/extensions/sencha-touch-connector-for-salesforce-rest-api) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/sencha_logo.jpg" align="left" width="180">](https://market.sencha.com/extensions/sencha-touch-connector-for-salesforce-rest-api)
-Use Mobile Pack for Sencha to quickly build cross-platform mobile apps that connect to the most trusted cloud platform. Leverage HTML5 components with built-in state management and fluid animations to display customer data in visually dynamic ways.
-
-Xamrin Pack : [Get Started](https://components.xamarin.com/view/SalesforceSDK) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/Xamarin.jpg" align="left" width="180">](https://components.xamarin.com/view/SalesforceSDK)
-Build sophisticated cross-platform apps that access Salesforce Platform data using Mobile Pack for Xamarin and C#. Leverage Salesforce Platform features like security and identity, and use declarative bindings to invoke third-party Java, Objective-C and C++ libraries or call them directly from C#.
-
-Appcelerator Pack : [Get Started](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)  |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/appcelerator4.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
-Mobilize your Salesforce data and build native, cross-platform apps from a single JavaScript codebase with the Mobile Pack for Appcelerator®. With an Eclipse-based IDE and MVC framework, developers can build reusable components to deliver highly effective apps leveraging their Salesforce platform.
-
-VizApps Pack : [Get Started](http://www.viziapps.com/learn-more/create-custom-mobile-apps-with-salesforce-data/) | [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/viziapps_web_logo_2.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
-Create mobile apps with device feature-driven workflow using your standard or custom objects with Mobile Pack for ViziApps. Combine flexible UX design with Salesforce data into your app’s workflow without coding, then publish to the Apple App Store, Google Play, or directly to your enterprise users.
-
-[Ionic Starter Pack for Saleforce](https://github.com/driftyco/ionic-starter-salesforce) - A starter project for Ionic and Salesforce
 
 ## Troubleshooting and queries
  * [Force.com Discussion boards](http://boards.developerforce.com/sforce/?category.id=developers) : Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here].
@@ -297,7 +275,6 @@ Create mobile apps with device feature-driven workflow using your standard or cu
 
 ### Learning Salesforce Platform
 * [Trailhead](https://developer.salesforce.com/trailhead) - Trailhead teaches you how to build cloud apps for free with fun, interactive tutorials. Stand out by learning in-demand Salesforce development skills.
-* [Udemy Course](https://www.udemy.com/salesforce-training/) - Hands on detailed and complete Instruction for both Admin and Developer part of Salesforce CRM.
 * [Udacity Course](https://www.udacity.com/course/intro-to-point-click-app-development--ud162) - This class teaches you how to build powerful web and mobile apps and host them in the cloud, without writing a line of code.
 * [Pluralsight Course](https://www.pluralsight.com/courses/apex-absolute-beginner-guide-coding-salesforce) - A crash course on how to code Apex taught by four time Salesforce MVP David Liu.
 
