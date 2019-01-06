@@ -306,6 +306,9 @@ Design and build apps that separate UI, logic, and data using Mobile Pack for An
 * [Jitendra Zaa](http://www.jitendrazaa.com/blog/)- 7 Salesforce Certificates, MVP and Technical Architect working on platform since 2008 [Read More](http://jitendrazaa.com/)
 * [Mohith Shrivastava -(CloudyWorld)](http://cloudyworlds.blogspot.com/)- Mohit is CodeScience at Codescience.com. He is known for his valuable contribution in [stackexchange](http://salesforce.stackexchange.com/users/645/mohith-shrivastava) owns 9x Salesforce certification. 
 
+### Podcasts
+* [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) - A WEEKLY TECHNOLOGY AND SOFTWARE DEVELOPMENT PODCAST, WITH A STRONG FOCUS ON THE SALESFORCE PLATFORM.
+
 
 ## Contribute
 
