@@ -171,6 +171,8 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 * [SOQooLio](https://soqool.io/)- Web app for querying, sorting, and exporting Salesforce data.
 
+* [Sweet.apex](https://github.com/Click-to-Cloud/Sweet.apex/) - Sweet.apex is the next generation of Apex development, transpiling Sweet Apex(a feature-rich Apex-like code) to Apex classes.
+
 ### Git Ignore for Salesforce
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/gitignore.png" align="right" width="120">
