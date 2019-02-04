@@ -174,6 +174,8 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 
 * [Sweet.apex](https://github.com/Click-to-Cloud/Sweet.apex/) - Sweet.apex is the next generation of Apex development, transpiling Sweet Apex(a feature-rich Apex-like code) to Apex classes.
 
+* [soql-parser-js](https://github.com/paustint/soql-parser-js) - JavaScript library for parsing SOQL queries, composing SOQL queries, and formatting SOQL queries.
+
 ### Git Ignore for Salesforce
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/gitignore.png" align="right" width="120">
@@ -217,6 +219,7 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 * [React Components for Saleforce Lightning Design System](http://mashmatrix.github.io/react-lightning-design-system/) - Salesforce Lightning Design System components built with React
 * [Salesforce ReactJS SPA Starter](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)
 * [ForceSpinner](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
+* [Avonni Creator](https://www.avonnicreator.com/) - Salesforce prototyping tool with sophisticated Lightning Design System support.
 
 ## ETL Tools
 
@@ -280,6 +283,7 @@ Design and build apps that separate UI, logic, and data using Mobile Pack for An
 * [Trailhead](https://developer.salesforce.com/trailhead) - Trailhead teaches you how to build cloud apps for free with fun, interactive tutorials. Stand out by learning in-demand Salesforce development skills.
 * [Udacity Course](https://www.udacity.com/course/intro-to-point-click-app-development--ud162) - This class teaches you how to build powerful web and mobile apps and host them in the cloud, without writing a line of code.
 * [Pluralsight Course](https://www.pluralsight.com/courses/apex-absolute-beginner-guide-coding-salesforce) - A crash course on how to code Apex taught by four time Salesforce MVP David Liu.
+* [Focus on Force](https://focusonforce.com/) - This inexpensive learning resource provides platform courses, study guides, and practice exams for several certification paths including Admin, Advanced Admin, App Builder, Platform Developer I, Platform Developer II, among others.
 
 ### Salesforce Certification Program
 [<img src="http://www.runconsultants.com/wp-content/uploads/2015/04/salesforce-certified-e1429111675579.png" align="right" width="100">](http://certification.salesforce.com/)
@@ -306,6 +310,7 @@ Design and build apps that separate UI, logic, and data using Mobile Pack for An
 * [Abhinav Gupta -(TechGerm)](http://www.tgerm.com/)- Force.com MVP & Architect - Passionate about S1 & Javascript, Architect by Profession and now owner of his company focusing on salesforce Consulting [Read More](https://plus.google.com/+AbhinavGuptaIn/posts)
 * [Jitendra Zaa](http://www.jitendrazaa.com/blog/)- 7 Salesforce Certificates, MVP and Technical Architect working on platform since 2008 [Read More](http://jitendrazaa.com/)
 * [Mohith Shrivastava -(CloudyWorld)](http://cloudyworlds.blogspot.com/)- Mohit is CodeScience at Codescience.com. He is known for his valuable contribution in [stackexchange](http://salesforce.stackexchange.com/users/645/mohith-shrivastava) owns 9x Salesforce certification. 
+* [The Wizard News](https://thewizardnews.com/) - The Wizard News is a central location for blogs, video, and podcasts created by Brian Kwong – aka Salesforce Wizard.
 
 ### Podcasts
 * [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) - A WEEKLY TECHNOLOGY AND SOFTWARE DEVELOPMENT PODCAST, WITH A STRONG FOCUS ON THE SALESFORCE PLATFORM.
