@@ -18,13 +18,15 @@ Awesome is awesome project started by [Sindre Sorhus](https://github.com/sindres
 ## What makes for an awesome list?
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
 
-The Fiery Meter of AWSome
-Repo with 0100+ Stars: 🔥
-Repo with 0200+ Stars: 🔥🔥
-Repo with 0500+ Stars: 🔥🔥🔥
-Repo with 1000+ Stars: 🔥🔥🔥🔥
-Repo with 2000+ Stars: 🔥🔥🔥🔥🔥
-Repos not on The Fiery Meter of AWSome can still be awesome, see A Note on Repo AWSomeness.
+## The Fiery Meter of AWSome
+
+* Repo with 0100+ Stars: :fire:
+* Repo with 0200+ Stars: :fire::fire:
+* Repo with 0500+ Stars: :fire::fire::fire:
+* Repo with 1000+ Stars: :fire::fire::fire::fire:
+* Repo with 2000+ Stars: :fire::fire::fire::fire::fire:
+
+Repos not on `The Fiery Meter of AWSome` can still be awesome, see [A Note on Repo AWSomeness]
 
 # A Note on Repo AWSomeness
 
