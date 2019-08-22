@@ -18,6 +18,26 @@ Awesome is awesome project started by [Sindre Sorhus](https://github.com/sindres
 ## What makes for an awesome list?
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
 
+The Fiery Meter of AWSome
+Repo with 0100+ Stars: 🔥
+Repo with 0200+ Stars: 🔥🔥
+Repo with 0500+ Stars: 🔥🔥🔥
+Repo with 1000+ Stars: 🔥🔥🔥🔥
+Repo with 2000+ Stars: 🔥🔥🔥🔥🔥
+Repos not on The Fiery Meter of AWSome can still be awesome, see A Note on Repo AWSomeness.
+
+# A Note on Repo AWSomeness
+
+Each repo listed meets at least one of the following requirements:
+
+* Community-authored repo with 100+ stars
+* Community-vouched repo with < 100 stars
+* Official repo from [aws](https://github.com/aws) or [awslabs](https://github.com/awslabs)
+
+100+ stars for community repos is not a strict requirement, it only serves as a guideline for the initial compilation.  If you can vouch for the awesomeness of a repo with < 100 stars and you can explain why it should be listed, please submit a pull request.
+
+Pull requests might be left open for a period of time to let the community chime in and vouch for it.  An official repo from [aws](https://github.com/aws) or [awslabs](https://github.com/awslabs) can be removed if the community wishes.  Check out the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+
   Read Related Awesome Pages :
    * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting)
    * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles)
