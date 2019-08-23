@@ -26,7 +26,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * Repo with 1000+ Stars: :fire::fire::fire::fire:
 * Repo with 2000+ Stars: :fire::fire::fire::fire::fire:
 
-Repos not on `The Fiery Meter of AWSome` can still be awesome, see [A Note on Repo AWSomeness]
+Repos not on `The Fiery Meter of AWSome` can still be awesome
 
 # A Note on Repo AWSomeness
 
