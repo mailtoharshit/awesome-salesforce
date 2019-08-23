@@ -34,7 +34,6 @@ Each repo listed meets at least one of the following requirements:
 
 * Community-authored repo with 100+ stars
 * Community-vouched repo with < 100 stars
-* Official repo from [aws](https://github.com/aws) or [awslabs](https://github.com/awslabs)
 
 100+ stars for community repos is not a strict requirement, it only serves as a guideline for the initial compilation.  If you can vouch for the awesomeness of a repo with < 100 stars and you can explain why it should be listed, please submit a pull request.
 
