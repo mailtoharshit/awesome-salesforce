@@ -338,6 +338,7 @@ Design and build apps that separate UI, logic, and data using Mobile Pack for An
 * [The Wizard News](https://thewizardnews.com/) - The Wizard News is a central location for blogs, video, and podcasts created by Brian Kwong – aka Salesforce Wizard.
 
 ### Podcasts
+* * [Code Coverage](https://www.codecoverage.org/) - Code Coverage is a podcast for developers on the force.com platform.
 * [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) - A WEEKLY TECHNOLOGY AND SOFTWARE DEVELOPMENT PODCAST, WITH A STRONG FOCUS ON THE SALESFORCE PLATFORM.
 * [SalesforceWay Podcast](https://salesforceway.com/podcast) - A WEEKLY SALESFORCE DEVELOPER TARGETED PODCAST.
 
