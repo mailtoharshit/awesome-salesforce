@@ -72,7 +72,7 @@ Pull requests might be left open for a period of time to let the community chime
 ### IDE
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/ideicon.png" align="right" width="120">
 
-The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased developement.
+The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased developement.
 
 * [Force.com IDE](https://developer.salesforce.com/page/Force.com_IDE) - Based on Eclipse Platform, supported and packaged by Salesforce.com
 * [ASIDE.IO](https://www.aside.io) - Online Editor, fast and connects to any Salesforce org quickly.
@@ -93,7 +93,7 @@ The previously popular Mavansmate editor(http://mavensmate.com/) has now ceased 
 * [Force.com CLI](https://force-cli.heroku.com/)- Command-line interface to Force.com.
 * [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com
 * [JedIDE](https://plugins.jetbrains.com/plugin/9238) - Force.com integration for IntelliJ IDEA
-* [Mavensmate](https://marketplace.visualstudio.com/items?itemName=DavidHelmer.mavensmate) Mavensmate extension for VS code.  The main Mavansmate project is now no longer active, so this plugin may be of limited use.
+* [Mavensmate](https://marketplace.visualstudio.com/items?itemName=DavidHelmer.mavensmate) Mavensmate extension for VS code.  The main Mavensmate project is now no longer active, so this plugin may be of limited use.
 
 ### Salesforce Custom Search Engines
 
@@ -340,6 +340,7 @@ Design and build apps that separate UI, logic, and data using Mobile Pack for An
 ### Podcasts
 * [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) - A WEEKLY TECHNOLOGY AND SOFTWARE DEVELOPMENT PODCAST, WITH A STRONG FOCUS ON THE SALESFORCE PLATFORM.
 * [SalesforceWay Podcast](https://salesforceway.com/podcast) - A WEEKLY SALESFORCE DEVELOPER TARGETED PODCAST.
+* [Salesforce Posse](https://salesforceposse.com) - The Salesforce Posse podcast was created to tell the world about Salesforce development and architecture best practice and news from the Salesforce eco-system.
 
 ## Contribute
 
