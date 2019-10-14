@@ -86,6 +86,7 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
 * [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) - Based on Eclipse Platform, supported and packaged by Salesforce.com
 * [Atom Plugin](https://github.com/joeferraro/MavensMate-Atom)- MavensMate plugin for building Salesforce.com/Force.com/Salesforce1 applications inside GitHub's Atom text editor
 * Visual Studio Code
+  * [Salesforce Extensions for VS Code](https://github.com/forcedotcom/salesforcedx-vscode) are the official Salesforce VS Code extensions.
   * [ForceCode](https://github.com/celador/ForceCode) is a Visual Studio Code extension for Salesforce development
   * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) Provides auto-completions for Apex & Visualforce, Go-To & Peek Definition and Realtime Syntax Checking
 * [ApexMate](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate.
