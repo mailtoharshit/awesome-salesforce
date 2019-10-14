@@ -74,7 +74,7 @@ Pull requests might be left open for a period of time to let the community chime
 
 The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased developement.
 
-* [Force.com IDE](https://developer.salesforce.com/page/Force.com_IDE) - Based on Eclipse Platform, supported and packaged by Salesforce.com
+* [Force.com IDE](https://developer.salesforce.com/page/Force.com_IDE) - Based on Eclipse Platform, supported and packaged by Salesforce.com(NOW RETIRED)
 * [ASIDE.IO](https://www.aside.io) - Online Editor, fast and connects to any Salesforce org quickly.
 * [WelkinSuite for Windows](https://welkinsuite.com/) - Desktop Editor for force.com application, free for use, pay for support.
 * [C9.IO](https://get.c9.io/salesforce/) - Online Editor, connects to any Salesforce org quickly.
