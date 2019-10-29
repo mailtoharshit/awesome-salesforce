@@ -342,6 +342,8 @@ Design and build apps that separate UI, logic, and data using Mobile Pack for An
 * [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) - A WEEKLY TECHNOLOGY AND SOFTWARE DEVELOPMENT PODCAST, WITH A STRONG FOCUS ON THE SALESFORCE PLATFORM.
 * [SalesforceWay Podcast](https://salesforceway.com/podcast) - A WEEKLY SALESFORCE DEVELOPER TARGETED PODCAST.
 * [Salesforce Posse](https://salesforceposse.com) - The Salesforce Posse podcast was created to tell the world about Salesforce development and architecture best practice and news from the Salesforce eco-system.
+* [Two WIT podcast](http://twowit.libsyn.com/podcast) - A podcast for Women In Tech doing life ☁️ Hosted by bi-coastal beauties [@KristiForce](https://twitter.com/KristiForce) & [@girlygeeksocial](https://twitter.com/girlygeeksocial)
+
 
 ## Contribute
 
