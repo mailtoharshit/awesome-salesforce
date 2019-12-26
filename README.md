@@ -200,7 +200,7 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
 
 * [soql-parser-js](https://github.com/paustint/soql-parser-js) - JavaScript library for parsing SOQL queries, composing SOQL queries, and formatting SOQL queries.
 
-* [Adminite](https://adminite.app/) - A desktop app query editor with auto completions, inline data editing, and more.
+* [Adminite](https://adminite.app/) - A query editor desktop app with built-in auto completions, inline data editing, and more.
 
 ### Git Ignore for Salesforce
 
