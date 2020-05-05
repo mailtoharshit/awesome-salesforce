@@ -89,6 +89,7 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
   * [Salesforce Extensions for VS Code](https://github.com/forcedotcom/salesforcedx-vscode) are the official Salesforce VS Code extensions.
   * [ForceCode](https://github.com/celador/ForceCode) is a Visual Studio Code extension for Salesforce development
   * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) Provides auto-completions for Apex & Visualforce, Go-To & Peek Definition and Realtime Syntax Checking
+  * [xysfdx](https://github.com/exiahuang/xysfdx) is a Visual Studio Code extension for Salesforce SFDX Development.
 * [ApexMate](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)- VIM Plugin for Force.com.
 * [Force.com CLI](https://force-cli.heroku.com/)- Command-line interface to Force.com.
@@ -196,11 +197,11 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
 
 * [Salesforce IDs converter](https://www.adminbooster.com/tool/15to18)- Convert IDs on 15 characters to IDs on 18 characters.
 
-* [SOQooLio](https://soqool.io/)- Web app for querying, sorting, and exporting Salesforce data.
-
 * [Sweet.apex](https://github.com/Click-to-Cloud/Sweet.apex/) - Sweet.apex is the next generation of Apex development, transpiling Sweet Apex(a feature-rich Apex-like code) to Apex classes.
 
 * [soql-parser-js](https://github.com/paustint/soql-parser-js) - JavaScript library for parsing SOQL queries, composing SOQL queries, and formatting SOQL queries.
+
+* [Adminite](https://adminite.app/) - A query editor desktop app with built-in auto completions, inline data editing, and more.
 
 ### Git Ignore for Salesforce
 
@@ -337,11 +338,13 @@ Design and build apps that separate UI, logic, and data using Mobile Pack for An
 * [Jitendra Zaa](http://www.jitendrazaa.com/blog/)- 7 Salesforce Certificates, MVP and Technical Architect working on platform since 2008 [Read More](http://jitendrazaa.com/)
 * [Mohith Shrivastava -(CloudyWorld)](http://cloudyworlds.blogspot.com/)- Mohit is CodeScience at Codescience.com. He is known for his valuable contribution in [stackexchange](http://salesforce.stackexchange.com/users/645/mohith-shrivastava) owns 9x Salesforce certification.
 * [The Wizard News](https://thewizardnews.com/) - The Wizard News is a central location for blogs, video, and podcasts created by Brian Kwong – aka Salesforce Wizard.
+* [WIPDeveloper.com](https://wipdeveloper.com/) - WIPDevloper.com is where content created by Brett Nelson exploring areas of development in the Salesforce ecosystem is hosted.
 
 ### Podcasts
 * [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) - A WEEKLY TECHNOLOGY AND SOFTWARE DEVELOPMENT PODCAST, WITH A STRONG FOCUS ON THE SALESFORCE PLATFORM.
 * [SalesforceWay Podcast](https://salesforceway.com/podcast) - A WEEKLY SALESFORCE DEVELOPER TARGETED PODCAST.
 * [Salesforce Posse](https://salesforceposse.com) - The Salesforce Posse podcast was created to tell the world about Salesforce development and architecture best practice and news from the Salesforce eco-system.
+* [Code Coverage](https://www.codecoverage.org/) - Code Coverage is a podcast for developers on the force.com platform, in each episode we talk to a developer about how they got involved with the platform, what they’re working on, technologies they like and what they consider to be their most ‘creative’ solution.
 
 ## Contribute
 
