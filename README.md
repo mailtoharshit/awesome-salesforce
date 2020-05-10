@@ -164,6 +164,7 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
 
 * [Apex Chainable Batch](https://github.com/rsoesemann/apex-chainable-batch) - Apex Batches can be chained by calling the successor batch from the `finish()` method of the previous batch. But such hardcoding makes this model inflexible. It's hard to build the chain from outside, neighter from a central class nor on runtime dependant on business logic.
 
+* [SFDC XML Parser](https://github.com/zabroseric/sfdc-xml-parser) - When integrating with larger and older systems, XML can be the only method of integration. In an effort to fill this gap in functionality, the xml parser provides back-and-fourth XML conversion with objects, sobjects and primitive types. The intention is to provide easy parsing of XML, whilst boasting of functionality.
 
 
 ### Developer Utilities
