@@ -304,6 +304,7 @@ Design and build apps that separate UI, logic, and data using Mobile Pack for An
  * [Salesforce Engineering](https://twitter.com/SalesforceEng)
  * [Salesforce UX](https://twitter.com/SalesforceUX)
  * [Salesforce PartnerForce](https://twitter.com/partnerforce)
+ * [Tableau CRM (formerly Einstein Analytics)](https://twitter.com/TableauCRM)
 
 
 ### Learning Salesforce Platform
