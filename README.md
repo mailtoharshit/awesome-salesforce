@@ -164,7 +164,7 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
 
 * [Apex Chainable Batch](https://github.com/rsoesemann/apex-chainable-batch) - Apex Batches can be chained by calling the successor batch from the `finish()` method of the previous batch. But such hardcoding makes this model inflexible. It's hard to build the chain from outside, neighter from a central class nor on runtime dependant on business logic.
 
-
+* [Apex Test Kit](https://github.com/apexfarm/ApexTestKit) - Apex Test Kit can help generate massive sObject data for Apex test classes. It is can help establish arbitrary levels of many-to-one, one-to-many relationships, and also generate field values based on simple rules automatically.
 
 ### Developer Utilities
 
