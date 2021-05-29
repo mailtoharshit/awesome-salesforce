@@ -90,6 +90,7 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
   * [ForceCode](https://github.com/celador/ForceCode) is a Visual Studio Code extension for Salesforce development
   * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) Provides auto-completions for Apex & Visualforce, Go-To & Peek Definition and Realtime Syntax Checking
   * [xysfdx](https://github.com/exiahuang/xysfdx) is a Visual Studio Code extension for Salesforce SFDX Development.
+  * [Salesforce Snippets](https://marketplace.visualstudio.com/items?itemName=ajinkya-hingne.salesforce-snippets) is a VS Code Extension which provides useful Salesforce snippets to speed up writing code for Salesforce platform
 * [ApexMate](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)- VIM Plugin for Force.com.
 * [Force.com CLI](https://force-cli.heroku.com/)- Command-line interface to Force.com.
