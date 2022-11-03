@@ -52,6 +52,7 @@ Pull requests might be left open for a period of time to let the community chime
   * [Resource to Learn Salesforce Platform](#learning-salesforce-platform)
   * [IDE](#ide)
   * [Developer Utilities/Tools for Salesforce](#browser-extensions-for-salesforce)
+  * [ERD tools]
   * [Salesforce Browser Extensions](#browser-extensions-for-salesforce)
   * [Open Source Github Project from Salesforce](#open-source-projects-repositories-from-salesforce)
   * [Salesforce Lightning Resources](#salesforce-lightning)
@@ -203,6 +204,14 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
 * [soql-parser-js](https://github.com/paustint/soql-parser-js) - JavaScript library for parsing SOQL queries, composing SOQL queries, and formatting SOQL queries.
 
 * [Adminite](https://adminite.app/) - A query editor desktop app with built-in auto completions, inline data editing, and more.
+
+### ERD tools
+
+* [AbstraLinx](https://soft-builder.com/abstralinx/) - Desktop software to visualize all objects, relationships, customized objects, and apex classes as an ER diagram. Editing and creating multiple customized diagrams and exporting them as images or printing them is also possible. The tool is not just an ERD tool, it's a complete metadata management solution. 
+
+* [Graphvizforce](https://stevebuik.github.io/GraphVizForce/) - This tool allows you to save as many different diagrams as you like so you can easily change and re-generate them in the future. You can also use the built-in template system to style the saved diagrams however you like.
+
+* [Schemaspy](https://schemaspy.org/) - SchemaSpy is a Java-based command line tool that analyzes the metadata of a schema in a database and generates ER diagrams. It lets you click through the hierarchy of database tables via child and parent table relationships.
 
 ### Git Ignore for Salesforce
 
