@@ -204,6 +204,8 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
 
 * [Adminite](https://adminite.app/) - A query editor desktop app with built-in auto completions, inline data editing, and more.
 
+* [Profiles & Permissions Comparison Tool](https://tools.bluecanvas.io/perms/) - Compare and deploy Profiles, Permission Sets & Field Level Security (FLS) between any two Salesforce orgs.
+
 ### Git Ignore for Salesforce
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/gitignore.png" align="right" width="120">
