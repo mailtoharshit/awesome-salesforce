@@ -219,6 +219,7 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
 
 * [Salesforce Mobile UI - Polymer Elements for Salesforce](https://github.com/forcedotcom/mobile-ui-elements) - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets
 * [ForceServer](https://github.com/ccoenraets/force-server) - It supportes a proxy and web server, ForceServer is a simple development server aimed at providing a simple and integrated developer experience when building applications that use Salesforce OAuth and REST services.
+* [Mautic](https://www.mautic.org) - Open-source email marketing automation platform for newsletters, segmentation, and campaign workflows.
 
 ## Javascript Libraries for Salesforce
 
