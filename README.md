@@ -204,6 +204,8 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
 
 * [Adminite](https://adminite.app/) - A query editor desktop app with built-in auto completions, inline data editing, and more.
 
+* [sf-plugin-permission-sets](https://github.com/zaclummys/sf-plugin-permission-sets) - CLI plugin for declarative, GitOps-style management of permission set assignments, defined in version-controlled YAML and reconciled with plan/apply like Terraform.
+
 ### Git Ignore for Salesforce
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/gitignore.png" align="right" width="120">
