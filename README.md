@@ -340,6 +340,7 @@ Design and build apps that separate UI, logic, and data using Mobile Pack for An
 * [Mohith Shrivastava -(CloudyWorld)](http://cloudyworlds.blogspot.com/)- Mohit is CodeScience at Codescience.com. He is known for his valuable contribution in [stackexchange](http://salesforce.stackexchange.com/users/645/mohith-shrivastava) owns 9x Salesforce certification.
 * [The Wizard News](https://thewizardnews.com/) - The Wizard News is a central location for blogs, video, and podcasts created by Brian Kwong – aka Salesforce Wizard.
 * [WIPDeveloper.com](https://wipdeveloper.com/) - WIPDevloper.com is where content created by Brett Nelson exploring areas of development in the Salesforce ecosystem is hosted.
+* [SF Updates](https://sfupdates.com) - Automated daily digest of Salesforce ecosystem news plus complete release notes coverage, with an RSS feed and a free Chrome extension.
 
 ### Podcasts
 * [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) - A WEEKLY TECHNOLOGY AND SOFTWARE DEVELOPMENT PODCAST, WITH A STRONG FOCUS ON THE SALESFORCE PLATFORM.
