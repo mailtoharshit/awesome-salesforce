@@ -204,6 +204,8 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
 
 * [Adminite](https://adminite.app/) - A query editor desktop app with built-in auto completions, inline data editing, and more.
 
+* [DataPilot](https://github.com/bassem-elsodany/datapilot) - AI-infused Salesforce data platform with natural language to SOQL, visual schema exploration, and an Apex development environment.
+
 ### Git Ignore for Salesforce
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/gitignore.png" align="right" width="120">
