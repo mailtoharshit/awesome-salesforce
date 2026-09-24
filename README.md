@@ -204,6 +204,8 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
 
 * [Adminite](https://adminite.app/) - A query editor desktop app with built-in auto completions, inline data editing, and more.
 
+* [TestDriver](https://testdriver.ai) - AI code reviewer that automatically runs every pull request in a real browser sandbox against Salesforce orgs, Visualforce and Lightning pages, finds bugs, and builds regression tests.
+
 ### Git Ignore for Salesforce
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/gitignore.png" align="right" width="120">
