@@ -47,12 +47,12 @@ Pull requests might be left open for a period of time to let the community chime
 
 
 ## Table of Contents
-* [Awesome Salesforce](#awesome-salesforce--)
+* [What is Awesome Salesforce ?](#what-is-awesome-salesforce-)
   * [Salesforce Developer Free Edition Signup](#salesforce-developer-free-edition-signup)
   * [Resource to Learn Salesforce Platform](#learning-salesforce-platform)
   * [IDE](#ide)
-  * [Developer Utilities/Tools for Salesforce](#browser-extensions-for-salesforce)
-  * [Salesforce Browser Extensions](#browser-extensions-for-salesforce)
+  * [Developer Utilities/Tools for Salesforce](#developer-utilities)
+  * [Salesforce Browser Extensions](#salesforce-browser-extensions)
   * [Open Source Github Project from Salesforce](#open-source-projects-repositories-from-salesforce)
   * [Salesforce Lightning Resources](#salesforce-lightning)
   * [Mobile Development with Salesforce](#mobile-development-with-salesforce)
@@ -287,7 +287,7 @@ Design and build apps that separate UI, logic, and data using Mobile Pack for An
 
 
 ## Troubleshooting and queries
- * [Force.com Discussion boards](http://boards.developerforce.com/sforce/?category.id=developers) : Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here].
+ * [Force.com Discussion boards](http://boards.developerforce.com/sforce/?category.id=developers) : Rich variety of boards are available to discuss almost anything about platform.
  * [Tweet](https://twitter.com/hashtag/askforce): Force.com community is pretty active on Twitter, tweet your question with hash #askforce
  * [StackOverFlow](http://stackoverflow.com/questions/tagged/salesforce):  Post your questions with right tags like apex, visualforce and salesforce to get a quick response.
  * [StackExchange](http://salesforce.stackexchange.com/): Salesforce Stack Exchange is a question and answer site for Salesforce administrators, implementation experts, developers and anybody in-between. It's 100% free, no registration required.
