@@ -204,6 +204,8 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
 
 * [Adminite](https://adminite.app/) - A query editor desktop app with built-in auto completions, inline data editing, and more.
 
+* [data360-autodoc](https://github.com/valentinatihova/data360-autodoc) - Python CLI that documents a Data Cloud (Data 360) org (data dictionary, mappings, ERD) and diffs snapshots to catch schema drift in CI.
+
 ### Git Ignore for Salesforce
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/gitignore.png" align="right" width="120">
