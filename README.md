@@ -204,6 +204,8 @@ The previously popular Mavensmate editor(http://mavensmate.com/) has now ceased 
 
 * [Adminite](https://adminite.app/) - A query editor desktop app with built-in auto completions, inline data editing, and more.
 
+* [Salesforce Debug Log Analyzer](https://syntaxfiddle.com/salesforce-debug-log-analyzer/) - Paste a debug log to get grouped SOQL/DML timings, per-namespace governor-limit snapshots, and automatic N+1 query detection. Runs entirely in the browser.
+
 ### Git Ignore for Salesforce
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/gitignore.png" align="right" width="120">
