@@ -312,6 +312,7 @@ Design and build apps that separate UI, logic, and data using Mobile Pack for An
 * [Udacity Course](https://www.udacity.com/course/intro-to-point-click-app-development--ud162) - This class teaches you how to build powerful web and mobile apps and host them in the cloud, without writing a line of code.
 * [Pluralsight Course](https://www.pluralsight.com/courses/apex-absolute-beginner-guide-coding-salesforce) - A crash course on how to code Apex taught by four time Salesforce MVP David Liu.
 * [Focus on Force](https://focusonforce.com/) - This inexpensive learning resource provides platform courses, study guides, and practice exams for several certification paths including Admin, Advanced Admin, App Builder, Platform Developer I, Platform Developer II, among others.
+* [Trailblaze Prep](https://www.trailblazeprep.com/) - Free practice questions, study guides and published section weightings for every current certification, with no sign-up.
 
 ### Salesforce Certification Program
 [<img src="http://www.runconsultants.com/wp-content/uploads/2015/04/salesforce-certified-e1429111675579.png" align="right" width="100">](http://certification.salesforce.com/)
