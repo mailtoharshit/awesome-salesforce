@@ -260,6 +260,7 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 * [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - The most popular open-source graphical ETL tool.
 * [Talend](https://www.talend.com/products/talend-open-studio) - An open source application for data integration job design with a graphical development environment.
 * Some other solutions from [awesome-etl list](https://github.com/pawl/awesome-etl).
+* [PageUtil Bulk API Error Analyser](https://pageutil.com/salesforce-bulk-api-error-analyzer/) - Inspect Bulk API 2.0 results locally, group failed-record errors and prepare reviewed retry CSVs.
 
 ## Salesforce Lightning
 * [Awesome Lightning](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework
